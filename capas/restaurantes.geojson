@@ -1,0 +1,2735 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.007351,
+                    -35.583823,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Laurel Parador<br>ubicacion: Av. Costanera España 11<br>telefono: 2241 67-7645<br>propietario: BHB Producciones S.A<br>habilitacion: 15000778<br>cubiertos: 70<br>mail: admbhbprod@gmail.com<br>medios_pago: Crédito / Débito / Mercado Pago / Cuenta DNI<br>sin_tacc: SI<br>vegano: SI<br>vegetariano: SI<br>delivery: NO<br>take_away: NO<br>accesibilidad: Ingreso a nivel por rampa  Sanitario accesible  Estacionamiento adaptado<br>observaciones: Cafetería   Salón de eventos  Tienda de decoración, vajilla y artículos de uso personal.<br>vencimiento: 10/11/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Laurel Parador",
+                "ubicacion": "Av. Costanera España 11",
+                "telefono": "2241 67-7645",
+                "propietario": "BHB Producciones S.A",
+                "habilitacion": "15000778",
+                "cubiertos": "70",
+                "mail": "admbhbprod@gmail.com",
+                "medios_pago": "Crédito / Débito / Mercado Pago / Cuenta DNI",
+                "sin_tacc": "SI",
+                "vegano": "SI",
+                "vegetariano": "SI",
+                "delivery": "NO",
+                "take_away": "NO",
+                "accesibilidad": "Ingreso a nivel por rampa  Sanitario accesible  Estacionamiento adaptado",
+                "observaciones": "Cafetería   Salón de eventos  Tienda de decoración, vajilla y artículos de uso personal.",
+                "vencimiento": "10/11/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.010706,
+                    -35.584059,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Camilo Parrilla<br>ubicacion: Av. Costanera España y Colón<br>telefono: 2241 - 563365<br>propietario: Marilena Cané<br>habilitacion: 15000642<br>cubiertos: 98<br>mail: marilena_cane@hotmail.com<br>medios_pago: Crédito / Débito / Mercado Pago / Cuenta DNI<br>sin_tacc: SI<br>vegano: SI<br>vegetariano: SI<br>delivery: SI<br>take_away: SI<br>accesibilidad: Baño accesible Rampas<br>observaciones: Parrilla, pastas, minutas. Salón de juegos.<br>vencimiento: 15/07/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Camilo Parrilla",
+                "ubicacion": "Av. Costanera España y Colón",
+                "telefono": "2241 - 563365",
+                "propietario": "Marilena Cané",
+                "habilitacion": "15000642",
+                "cubiertos": "98",
+                "mail": "marilena_cane@hotmail.com",
+                "medios_pago": "Crédito / Débito / Mercado Pago / Cuenta DNI",
+                "sin_tacc": "SI",
+                "vegano": "SI",
+                "vegetariano": "SI",
+                "delivery": "SI",
+                "take_away": "SI",
+                "accesibilidad": "Baño accesible Rampas",
+                "observaciones": "Parrilla, pastas, minutas. Salón de juegos.",
+                "vencimiento": "15/07/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.014511,
+                    -35.577634,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Prunus<br>ubicacion: Av, Lastra y Belgrano<br>telefono: 2241 - 676867<br>propietario: Benigni Gastón Ariel<br>habilitacion: A5-0775<br>cubiertos: 80<br>mail: prunus.chascomus@gmail.com<br>medios_pago: Crédito / Débito / Mercado Pago / Cuenta DNI<br>sin_tacc: SI<br>vegano: SI<br>vegetariano: SI<br>delivery: TERCERIZADO  2241-565166  2241-527880<br>take_away: SOLO HELADO<br>accesibilidad: NO<br>observaciones: Heladería y Cafetería<br>vencimiento: 17/09/2027"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Prunus",
+                "ubicacion": "Av, Lastra y Belgrano",
+                "telefono": "2241 - 676867",
+                "propietario": "Benigni Gastón Ariel",
+                "habilitacion": "A5-0775",
+                "cubiertos": "80",
+                "mail": "prunus.chascomus@gmail.com",
+                "medios_pago": "Crédito / Débito / Mercado Pago / Cuenta DNI",
+                "sin_tacc": "SI",
+                "vegano": "SI",
+                "vegetariano": "SI",
+                "delivery": "TERCERIZADO  2241-565166  2241-527880",
+                "take_away": "SOLO HELADO",
+                "accesibilidad": "NO",
+                "observaciones": "Heladería y Cafetería",
+                "vencimiento": "17/09/2027"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.01611,
+                    -35.574643,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Molde<br>ubicacion: Licoln 157<br>telefono: 2241 - 494004<br>propietario: SIMMCHAS S.A<br>habilitacion: A5-0771<br>cubiertos: 50<br>mail: molde_pizzeria@gmail.com<br>medios_pago: Crédito / Débito / Mercado Pago / Cuenta DNI / Transferencia<br>sin_tacc: SI<br>vegano: NO<br>vegetariano: SI<br>delivery: SI<br>take_away: SI<br>accesibilidad: Sanitario accesible.<br>observaciones: Pizza al molde estilo porteño.<br>vencimiento: 25/6/2027"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Molde",
+                "ubicacion": "Licoln 157",
+                "telefono": "2241 - 494004",
+                "propietario": "SIMMCHAS S.A",
+                "habilitacion": "A5-0771",
+                "cubiertos": "50",
+                "mail": "molde_pizzeria@gmail.com",
+                "medios_pago": "Crédito / Débito / Mercado Pago / Cuenta DNI / Transferencia",
+                "sin_tacc": "SI",
+                "vegano": "NO",
+                "vegetariano": "SI",
+                "delivery": "SI",
+                "take_away": "SI",
+                "accesibilidad": "Sanitario accesible.",
+                "observaciones": "Pizza al molde estilo porteño.",
+                "vencimiento": "25/6/2027"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.014822,
+                    -35.56786,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Brinato Helados &amp; Café<br>ubicacion: Escribano 176<br>telefono: 2241 - 581639<br>propietario: Claudio Izurieta<br>habilitacion: 15000726<br>cubiertos: 24<br>mail: brinato.chascomus@gmail.com<br>medios_pago: Crédito / Débito / Mercado Pago / Cuenta DNI / Transferencia<br>sin_tacc: SI<br>vegano: SI<br>vegetariano: SI<br>delivery: SI<br>take_away: SI<br>accesibilidad: Ingreso a nivel por rampa  Sanitario accesible  Butaca para personas con obesidad  Estacionamiento adaptado<br>observaciones: Heladería / cafetería/ waffles / tortas heladas / postres / helados para diabéticos y celiacos.<br>vencimiento: 5/6/2028"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Brinato Helados &amp; Café",
+                "ubicacion": "Escribano 176",
+                "telefono": "2241 - 581639",
+                "propietario": "Claudio Izurieta",
+                "habilitacion": "15000726",
+                "cubiertos": "24",
+                "mail": "brinato.chascomus@gmail.com",
+                "medios_pago": "Crédito / Débito / Mercado Pago / Cuenta DNI / Transferencia",
+                "sin_tacc": "SI",
+                "vegano": "SI",
+                "vegetariano": "SI",
+                "delivery": "SI",
+                "take_away": "SI",
+                "accesibilidad": "Ingreso a nivel por rampa  Sanitario accesible  Butaca para personas con obesidad  Estacionamiento adaptado",
+                "observaciones": "Heladería / cafetería/ waffles / tortas heladas / postres / helados para diabéticos y celiacos.",
+                "vencimiento": "5/6/2028"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.065734,
+                    -35.585252,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Las Lomittas<br>ubicacion: De los Caldenes 35 - B. Lomas Altas<br>telefono: 2241 - 494227<br>propietario: Rotella Maria Belen<br>habilitacion: 15000744<br>cubiertos: 30<br>mail: Laslomitas.momentosricos@gmail.com<br>medios_pago: Débito / Mercado Pago / Cuenta DNI / Transferencia<br>sin_tacc: SI<br>vegano: NO<br>vegetariano: SI<br>delivery: SI<br>take_away: SI<br>accesibilidad: NO<br>observaciones: Pastelería, cafetería y restaurante familiar de elaboración artesanal.<br>vencimiento: 15/2/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Las Lomittas",
+                "ubicacion": "De los Caldenes 35 - B. Lomas Altas",
+                "telefono": "2241 - 494227",
+                "propietario": "Rotella Maria Belen",
+                "habilitacion": "15000744",
+                "cubiertos": "30",
+                "mail": "Laslomitas.momentosricos@gmail.com",
+                "medios_pago": "Débito / Mercado Pago / Cuenta DNI / Transferencia",
+                "sin_tacc": "SI",
+                "vegano": "NO",
+                "vegetariano": "SI",
+                "delivery": "SI",
+                "take_away": "SI",
+                "accesibilidad": "NO",
+                "observaciones": "Pastelería, cafetería y restaurante familiar de elaboración artesanal.",
+                "vencimiento": "15/2/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.013827,
+                    -35.575731,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Señor Iupy<br>ubicacion: Libres del Sur 100<br>telefono: 2241-540070<br>propietario: Fernandez Valeria Elizabeth<br>habilitacion: 3653/7<br>cubiertos: 50<br>mail: iupyheladerias@gmail.com/gerenciaiupy@gmail.com<br>medios_pago: Crédito / Débito / Mercado Pago / Cuenta DNI / Transferencia<br>sin_tacc: SI<br>vegano: SI<br>vegetariano: SI<br>delivery: SI<br>take_away: SI<br>accesibilidad: Ingreso a nivel por rampa  Mapa háptico  Pictogramas<br>observaciones: Heladería y Cafetería.<br>vencimiento: 12/04/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Señor Iupy",
+                "ubicacion": "Libres del Sur 100",
+                "telefono": "2241-540070",
+                "propietario": "Fernandez Valeria Elizabeth",
+                "habilitacion": "3653/7",
+                "cubiertos": "50",
+                "mail": "iupyheladerias@gmail.com/gerenciaiupy@gmail.com",
+                "medios_pago": "Crédito / Débito / Mercado Pago / Cuenta DNI / Transferencia",
+                "sin_tacc": "SI",
+                "vegano": "SI",
+                "vegetariano": "SI",
+                "delivery": "SI",
+                "take_away": "SI",
+                "accesibilidad": "Ingreso a nivel por rampa  Mapa háptico  Pictogramas",
+                "observaciones": "Heladería y Cafetería.",
+                "vencimiento": "12/04/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.024424,
+                    -35.569375,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Punta Norte<br>ubicacion: Av. Costanera Alem 487<br>telefono: 2241-539498<br>propietario: Punta Norte S.A<br>habilitacion: 16000420<br>cubiertos: 80<br>mail: puntanortech@gmail.com<br>medios_pago: Débito / Mercado Pago / Cuenta DNI / Transferencia / Billeteras Virtuales<br>sin_tacc: SI<br>vegano: NO<br>vegetariano: SI<br>delivery: NO<br>take_away: SI<br>accesibilidad: NO<br>observaciones: Parador / bar.<br>vencimiento: 7/10/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Punta Norte",
+                "ubicacion": "Av. Costanera Alem 487",
+                "telefono": "2241-539498",
+                "propietario": "Punta Norte S.A",
+                "habilitacion": "16000420",
+                "cubiertos": "80",
+                "mail": "puntanortech@gmail.com",
+                "medios_pago": "Débito / Mercado Pago / Cuenta DNI / Transferencia / Billeteras Virtuales",
+                "sin_tacc": "SI",
+                "vegano": "NO",
+                "vegetariano": "SI",
+                "delivery": "NO",
+                "take_away": "SI",
+                "accesibilidad": "NO",
+                "observaciones": "Parador / bar.",
+                "vencimiento": "7/10/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.022652,
+                    -35.573711,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Coffate<br>ubicacion: Costanera Alem 255<br>telefono: 2241-607584<br>propietario: HUANG HUAN<br>habilitacion: 15000713<br>cubiertos: 100<br>mail: carlos@wilson-marina.com.ar<br>medios_pago: Tarjetas, efectivo, virtual.<br>sin_tacc: si<br>vegano: si<br>vegetariano: si<br>delivery: si<br>take_away: si<br>accesibilidad: si<br>observaciones: Wi- fi- Alquiler de botes eléctricos<br>vencimiento: 01/02/2027"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Coffate",
+                "ubicacion": "Costanera Alem 255",
+                "telefono": "2241-607584",
+                "propietario": "HUANG HUAN",
+                "habilitacion": "15000713",
+                "cubiertos": "100",
+                "mail": "carlos@wilson-marina.com.ar",
+                "medios_pago": "Tarjetas, efectivo, virtual.",
+                "sin_tacc": "si",
+                "vegano": "si",
+                "vegetariano": "si",
+                "delivery": "si",
+                "take_away": "si",
+                "accesibilidad": "si",
+                "observaciones": "Wi- fi- Alquiler de botes eléctricos",
+                "vencimiento": "01/02/2027"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.019475,
+                    -35.580128,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Mule<br>ubicacion: Costanera España 8<br>telefono: 2241-691797<br>propietario: CAFE MULE S.R.L<br>habilitacion: 15000665<br>cubiertos: 180<br>mail: cafemulesrl@gmail.com<br>medios_pago: Débito / Mercado Pago / Cuenta DNI / Transferencia / Billeteras Virtuales<br>sin_tacc: Tienen variedad de menu siin TACC<br>vegano: si<br>vegetariano: si<br>delivery: <br>take_away: si<br>accesibilidad: si<br>observaciones: Calefacción, aire acondicionado, wifi<br>vencimiento: 13/04/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Mule",
+                "ubicacion": "Costanera España 8",
+                "telefono": "2241-691797",
+                "propietario": "CAFE MULE S.R.L",
+                "habilitacion": "15000665",
+                "cubiertos": "180",
+                "mail": "cafemulesrl@gmail.com",
+                "medios_pago": "Débito / Mercado Pago / Cuenta DNI / Transferencia / Billeteras Virtuales",
+                "sin_tacc": "Tienen variedad de menu siin TACC",
+                "vegano": "si",
+                "vegetariano": "si",
+                "delivery": "",
+                "take_away": "si",
+                "accesibilidad": "si",
+                "observaciones": "Calefacción, aire acondicionado, wifi",
+                "vencimiento": "13/04/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.979357,
+                    -35.572913,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: A.C.A<br>ubicacion: Ruta 2 km 122<br>telefono: 2241 55 1765<br>propietario: FORNETTI HERMANOS S.R.L<br>habilitacion: 15000693<br>cubiertos: 85<br>mail: <br>medios_pago: Tarjetas, efectivo, virtual.<br>sin_tacc: si<br>vegano: si<br>vegetariano: si<br>delivery: <br>take_away: <br>accesibilidad: si<br>observaciones: Bar, Pasteleria<br>vencimiento: 20/07/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "A.C.A",
+                "ubicacion": "Ruta 2 km 122",
+                "telefono": "2241 55 1765",
+                "propietario": "FORNETTI HERMANOS S.R.L",
+                "habilitacion": "15000693",
+                "cubiertos": "85",
+                "mail": "",
+                "medios_pago": "Tarjetas, efectivo, virtual.",
+                "sin_tacc": "si",
+                "vegano": "si",
+                "vegetariano": "si",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "si",
+                "observaciones": "Bar, Pasteleria",
+                "vencimiento": "20/07/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.02433,
+                    -35.51073,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Atalaya ( Parador 1)<br>ubicacion: Ruta 2 km 113,5<br>telefono: 02241 423212<br>propietario: ATALAYA S.A<br>habilitacion: 21000121<br>cubiertos: 138<br>mail: consultas@atalaya.com.ar<br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Bar, Pasteleria<br>vencimiento: 10/03/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Atalaya ( Parador 1)",
+                "ubicacion": "Ruta 2 km 113,5",
+                "telefono": "02241 423212",
+                "propietario": "ATALAYA S.A",
+                "habilitacion": "21000121",
+                "cubiertos": "138",
+                "mail": "consultas@atalaya.com.ar",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Bar, Pasteleria",
+                "vencimiento": "10/03/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.012461,
+                    -35.577739,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Brangus burguer<br>ubicacion: Lastra y Alvear<br>telefono: 2241- 540110<br>propietario: LARA RAUL DE LA CRUZ<br>habilitacion: 15000644<br>cubiertos: 31<br>mail: brangusburgerchascomus@gmail.com<br>medios_pago: Débito / Mercado Pago / Cuenta DNI / Transferencia / Billeteras Virtuales<br>sin_tacc: NO<br>vegano: SI<br>vegetariano: SI<br>delivery: SI<br>take_away: SI<br>accesibilidad: SIN ESCALERAS<br>observaciones: Hamburguesería<br>vencimiento: 20/03/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Brangus burguer",
+                "ubicacion": "Lastra y Alvear",
+                "telefono": "2241- 540110",
+                "propietario": "LARA RAUL DE LA CRUZ",
+                "habilitacion": "15000644",
+                "cubiertos": "31",
+                "mail": "brangusburgerchascomus@gmail.com",
+                "medios_pago": "Débito / Mercado Pago / Cuenta DNI / Transferencia / Billeteras Virtuales",
+                "sin_tacc": "NO",
+                "vegano": "SI",
+                "vegetariano": "SI",
+                "delivery": "SI",
+                "take_away": "SI",
+                "accesibilidad": "SIN ESCALERAS",
+                "observaciones": "Hamburguesería",
+                "vencimiento": "20/03/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.01356,
+                    -35.577432,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Café Club Social ( Areca)<br>ubicacion: L. del Sur 14<br>telefono: 2241-493595<br>propietario: <br>habilitacion: <br>cubiertos: 30<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: wi-fi- calefacción<br>vencimiento: vencida"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Café Club Social ( Areca)",
+                "ubicacion": "L. del Sur 14",
+                "telefono": "2241-493595",
+                "propietario": "",
+                "habilitacion": "",
+                "cubiertos": "30",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "wi-fi- calefacción",
+                "vencimiento": "vencida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.0081,
+                    -35.581989,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Chancho Aurelio<br>ubicacion: Pte Perón y Dolores<br>telefono: 2241555294<br>propietario: HERMANN ALEJANDRO JESUS<br>habilitacion: A5-0768 15000768<br>cubiertos: 30<br>mail: <br>medios_pago: <br>sin_tacc: Algunos platos son sin TACC<br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: WiFi/Mercado<br>vencimiento: 20/05/2027"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Chancho Aurelio",
+                "ubicacion": "Pte Perón y Dolores",
+                "telefono": "2241555294",
+                "propietario": "HERMANN ALEJANDRO JESUS",
+                "habilitacion": "A5-0768 15000768",
+                "cubiertos": "30",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "Algunos platos son sin TACC",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "WiFi/Mercado",
+                "vencimiento": "20/05/2027"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.014264,
+                    -35.579271,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Club de Pelota<br>ubicacion: Sarmiento 100<br>telefono: 2241571359<br>propietario: VANINETTI STELLA MARIS<br>habilitacion: 15000608<br>cubiertos: 60<br>mail: marivaninetti8@gmail.com<br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: WI-FI<br>vencimiento: 15/02/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Club de Pelota",
+                "ubicacion": "Sarmiento 100",
+                "telefono": "2241571359",
+                "propietario": "VANINETTI STELLA MARIS",
+                "habilitacion": "15000608",
+                "cubiertos": "60",
+                "mail": "marivaninetti8@gmail.com",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "WI-FI",
+                "vencimiento": "15/02/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.008957,
+                    -35.584,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Parrilla Don Geronimo<br>ubicacion: Castelli 450 esq Costanera<br>telefono: 2241- 5684717<br>propietario: JORAJURIA GUILLERMO<br>habilitacion: 15000474<br>cubiertos: 130<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: <br>vencimiento: 15/10/2025"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Parrilla Don Geronimo",
+                "ubicacion": "Castelli 450 esq Costanera",
+                "telefono": "2241- 5684717",
+                "propietario": "JORAJURIA GUILLERMO",
+                "habilitacion": "15000474",
+                "cubiertos": "130",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "",
+                "vencimiento": "15/10/2025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.00901,
+                    -35.577293,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: El Bodegón<br>ubicacion: Av. Lastra 446, Esq Pte Perón<br>telefono: 02241 69 29 93<br>propietario: PASO MARIA CECILIA<br>habilitacion: 15000549<br>cubiertos: 40<br>mail: ceciliapasocaregall@gmail.com<br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Restaurante- Bodegón<br>vencimiento: 15/01/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "El Bodegón",
+                "ubicacion": "Av. Lastra 446, Esq Pte Perón",
+                "telefono": "02241 69 29 93",
+                "propietario": "PASO MARIA CECILIA",
+                "habilitacion": "15000549",
+                "cubiertos": "40",
+                "mail": "ceciliapasocaregall@gmail.com",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Restaurante- Bodegón",
+                "vencimiento": "15/01/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.005287,
+                    -35.579674,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: El Colonial<br>ubicacion: EE UU y Artigas<br>telefono: 02241 430322<br>propietario: FASCE GERMAN MATIAS<br>habilitacion: 15000378<br>cubiertos: 90<br>mail: jmfasce@hotmail.com<br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: delivery, wifi, aire, calefacción<br>vencimiento: 01/09/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "El Colonial",
+                "ubicacion": "EE UU y Artigas",
+                "telefono": "02241 430322",
+                "propietario": "FASCE GERMAN MATIAS",
+                "habilitacion": "15000378",
+                "cubiertos": "90",
+                "mail": "jmfasce@hotmail.com",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "delivery, wifi, aire, calefacción",
+                "vencimiento": "01/09/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.014222,
+                    -35.575123,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: El Pollo<br>ubicacion: Libres del Sur<br>telefono: 2241- 614539<br>propietario: MARTINEZ MARIA GABRIELA<br>habilitacion: 13003157<br>cubiertos: 80<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Fast food<br>vencimiento: 15/3/26"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "El Pollo",
+                "ubicacion": "Libres del Sur",
+                "telefono": "2241- 614539",
+                "propietario": "MARTINEZ MARIA GABRIELA",
+                "habilitacion": "13003157",
+                "cubiertos": "80",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Fast food",
+                "vencimiento": "15/3/26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.979132,
+                    -35.574021,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Entre Pueblos<br>ubicacion: Ruta 2 km 122<br>telefono: 2216413684<br>propietario: ENTRE PUEBLOS S.A<br>habilitacion: 15000742<br>cubiertos: 70<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: <br>vencimiento: 13/03/2027"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Entre Pueblos",
+                "ubicacion": "Ruta 2 km 122",
+                "telefono": "2216413684",
+                "propietario": "ENTRE PUEBLOS S.A",
+                "habilitacion": "15000742",
+                "cubiertos": "70",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "",
+                "vencimiento": "13/03/2027"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.010749,
+                    -35.573182,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Franklin<br>ubicacion: Frankin y Casalins<br>telefono: 011- 67843993<br>propietario: GUZMAN SOLEDAD<br>habilitacion: 15000692<br>cubiertos: 60<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Bar- Shows en vivo<br>vencimiento: 10/8/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Franklin",
+                "ubicacion": "Frankin y Casalins",
+                "telefono": "011- 67843993",
+                "propietario": "GUZMAN SOLEDAD",
+                "habilitacion": "15000692",
+                "cubiertos": "60",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Bar- Shows en vivo",
+                "vencimiento": "10/8/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.012642,
+                    -35.582611,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Haroldo Bar<br>ubicacion: Mitre 353 y Dolores<br>telefono: 2241-458055<br>propietario: GUTIERREZ JUAN MANUEL<br>habilitacion: 15000613<br>cubiertos: 320<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Wifi- juegos de mesa-bandas<br>vencimiento: 10/5/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Haroldo Bar",
+                "ubicacion": "Mitre 353 y Dolores",
+                "telefono": "2241-458055",
+                "propietario": "GUTIERREZ JUAN MANUEL",
+                "habilitacion": "15000613",
+                "cubiertos": "320",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Wifi- juegos de mesa-bandas",
+                "vencimiento": "10/5/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.012762,
+                    -35.579613,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Hotel Casa Laurel<br>ubicacion: Lavalle 227<br>telefono: 2241-683696<br>propietario: LAUREL HOTELERIA Y SERVICIOS S.A<br>habilitacion: 16000412<br>cubiertos: 60<br>mail: Info@casalaurel.com.ar<br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: <br>vencimiento: 27/01/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Hotel Casa Laurel",
+                "ubicacion": "Lavalle 227",
+                "telefono": "2241-683696",
+                "propietario": "LAUREL HOTELERIA Y SERVICIOS S.A",
+                "habilitacion": "16000412",
+                "cubiertos": "60",
+                "mail": "Info@casalaurel.com.ar",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "",
+                "vencimiento": "27/01/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.987051,
+                    -35.589628,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Howard Johnson 1779<br>ubicacion: Lobería 738<br>telefono: 02241 433243<br>propietario: FIDEICOMISO HOWARD JOHNSON CHASCOMUS<br>habilitacion: 17000025<br>cubiertos: 160<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: servicio de bar, spa, wifi, calefacción, Pileta exterior y climatizada, televisión, metegol, mesa de ping pong, salón de juegos para niños.<br>vencimiento: 23/02/2027"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Howard Johnson 1779",
+                "ubicacion": "Lobería 738",
+                "telefono": "02241 433243",
+                "propietario": "FIDEICOMISO HOWARD JOHNSON CHASCOMUS",
+                "habilitacion": "17000025",
+                "cubiertos": "160",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "servicio de bar, spa, wifi, calefacción, Pileta exterior y climatizada, televisión, metegol, mesa de ping pong, salón de juegos para niños.",
+                "vencimiento": "23/02/2027"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.02626,
+                    -35.567918,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Il Ristorantino<br>ubicacion: Roca 629<br>telefono: 02241 592445/1163712046<br>propietario: CLAPS ANA MARIA<br>habilitacion: 15000531<br>cubiertos: 55<br>mail: ernestoclaps@yahoo.com.ar<br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Restaurante- Gastronomía Italiana<br>vencimiento: 19/12/2028"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Il Ristorantino",
+                "ubicacion": "Roca 629",
+                "telefono": "02241 592445/1163712046",
+                "propietario": "CLAPS ANA MARIA",
+                "habilitacion": "15000531",
+                "cubiertos": "55",
+                "mail": "ernestoclaps@yahoo.com.ar",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Restaurante- Gastronomía Italiana",
+                "vencimiento": "19/12/2028"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.992936,
+                    -35.587446,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: La barra/ bar de la costa<br>ubicacion: Costanera Pedro Gastón 779<br>telefono: 2241-588352<br>propietario: AGUILAR OSCAR FERNANDO<br>habilitacion: 15000730<br>cubiertos: 70<br>mail: labarrabardecosta@gmail.com<br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Butaca para personas obesas- estacionamiento adaptado<br>vencimiento: 27/06/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "La barra/ bar de la costa",
+                "ubicacion": "Costanera Pedro Gastón 779",
+                "telefono": "2241-588352",
+                "propietario": "AGUILAR OSCAR FERNANDO",
+                "habilitacion": "15000730",
+                "cubiertos": "70",
+                "mail": "labarrabardecosta@gmail.com",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Butaca para personas obesas- estacionamiento adaptado",
+                "vencimiento": "27/06/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.97983,
+                    -35.569863,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: La Eso Chascomús<br>ubicacion: Ruta 2 km 121.500<br>telefono: 2241424885<br>propietario: QUESADA PAOLA CECILIA<br>habilitacion: 15000513<br>cubiertos: 70<br>mail: Info@laesochascomus.com<br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Wi- fi<br>vencimiento: 08/01/2029"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "La Eso Chascomús",
+                "ubicacion": "Ruta 2 km 121.500",
+                "telefono": "2241424885",
+                "propietario": "QUESADA PAOLA CECILIA",
+                "habilitacion": "15000513",
+                "cubiertos": "70",
+                "mail": "Info@laesochascomus.com",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Wi- fi",
+                "vencimiento": "08/01/2029"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.00521,
+                    -35.583156,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: La fonda parrilla<br>ubicacion: Av. Costanera España 73<br>telefono: 2241- 683529<br>propietario: CRENCI CLAUDIO PEDRO<br>habilitacion: 15000703<br>cubiertos: 120<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Wi- fi- ambiente climatizado<br>vencimiento: 10/8/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "La fonda parrilla",
+                "ubicacion": "Av. Costanera España 73",
+                "telefono": "2241- 683529",
+                "propietario": "CRENCI CLAUDIO PEDRO",
+                "habilitacion": "15000703",
+                "cubiertos": "120",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Wi- fi- ambiente climatizado",
+                "vencimiento": "10/8/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.005089,
+                    -35.58315,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: La Fonda pizzería<br>ubicacion: Av. Costanera España 79<br>telefono: 2241- 516300/ 2241- 603368<br>propietario: CRENCI CLAUDIO PEDRO<br>habilitacion: 15000703<br>cubiertos: 100<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Wi- fi<br>vencimiento: 10/8/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "La Fonda pizzería",
+                "ubicacion": "Av. Costanera España 79",
+                "telefono": "2241- 516300/ 2241- 603368",
+                "propietario": "CRENCI CLAUDIO PEDRO",
+                "habilitacion": "15000703",
+                "cubiertos": "100",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Wi- fi",
+                "vencimiento": "10/8/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.013293,
+                    -35.578653,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: La Grulla<br>ubicacion: pellegrini 1200/ Av. Mitre 59<br>telefono: 02241 422639<br>propietario: ESTABLECIMIENTO LA GRULLA S.A.<br>habilitacion: 16000344<br>cubiertos: 140<br>mail: info@complejolagrulla.com<br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Wi-fi<br>vencimiento: 11/07/2028"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "La Grulla",
+                "ubicacion": "pellegrini 1200/ Av. Mitre 59",
+                "telefono": "02241 422639",
+                "propietario": "ESTABLECIMIENTO LA GRULLA S.A.",
+                "habilitacion": "16000344",
+                "cubiertos": "140",
+                "mail": "info@complejolagrulla.com",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Wi-fi",
+                "vencimiento": "11/07/2028"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.013293,
+                    -35.578653,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: La grulla Take away<br>ubicacion: Av. Mitre 59<br>telefono: 2241571116<br>propietario: ESTABLECIMIENTO LA GRULLA S.A<br>habilitacion: 15000710<br>cubiertos: 16<br>mail: complejolagrulla@gmail.com<br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: WI- fi<br>vencimiento: 27/2/2029"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "La grulla Take away",
+                "ubicacion": "Av. Mitre 59",
+                "telefono": "2241571116",
+                "propietario": "ESTABLECIMIENTO LA GRULLA S.A",
+                "habilitacion": "15000710",
+                "cubiertos": "16",
+                "mail": "complejolagrulla@gmail.com",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "WI- fi",
+                "vencimiento": "27/2/2029"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.030554,
+                    -35.618744,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: La Matera ( Estancia la alameda)<br>ubicacion: Camino de Circunvalación KM 12, 6/<br>telefono: 1157133534 // 2241 50-8536 Facu Canepa<br>propietario: ESTANCIA LA ALAMEDA S.A.<br>habilitacion: 17000023<br>cubiertos: 300<br>mail: reservas@estancialaalameda.com<br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Salón de eventos y convenciones- hotel)- Wi- fi- audioguuías- butaca para personas obesas- estacionamiento adaptado<br>vencimiento: 15/7/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "La Matera ( Estancia la alameda)",
+                "ubicacion": "Camino de Circunvalación KM 12, 6/",
+                "telefono": "1157133534 // 2241 50-8536 Facu Canepa",
+                "propietario": "ESTANCIA LA ALAMEDA S.A.",
+                "habilitacion": "17000023",
+                "cubiertos": "300",
+                "mail": "reservas@estancialaalameda.com",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Salón de eventos y convenciones- hotel)- Wi- fi- audioguuías- butaca para personas obesas- estacionamiento adaptado",
+                "vencimiento": "15/7/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.011212,
+                    -35.579445,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: La Toscana<br>ubicacion: Lavalle 139<br>telefono: 02241 42-5589 / 2241569094<br>propietario: SIMMCHAS S.A<br>habilitacion: 15000450<br>cubiertos: 150<br>mail: latoscanach@gmail.com<br>medios_pago: Crédito / Débito / Mercado Pago / Cuenta DNI / Transferencia<br>sin_tacc: SI<br>vegano: NO<br>vegetariano: SI<br>delivery: SI<br>take_away: SI<br>accesibilidad: Ingreso a nivel por rampa<br>observaciones: SIMMCHAS S.A<br>vencimiento: 09/04/2027"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "La Toscana",
+                "ubicacion": "Lavalle 139",
+                "telefono": "02241 42-5589 / 2241569094",
+                "propietario": "SIMMCHAS S.A",
+                "habilitacion": "15000450",
+                "cubiertos": "150",
+                "mail": "latoscanach@gmail.com",
+                "medios_pago": "Crédito / Débito / Mercado Pago / Cuenta DNI / Transferencia",
+                "sin_tacc": "SI",
+                "vegano": "NO",
+                "vegetariano": "SI",
+                "delivery": "SI",
+                "take_away": "SI",
+                "accesibilidad": "Ingreso a nivel por rampa",
+                "observaciones": "SIMMCHAS S.A",
+                "vencimiento": "09/04/2027"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.021659,
+                    -35.574311,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Lo de Mirta<br>ubicacion: Franklin 584<br>telefono: 2241-423744<br>propietario: BRENNA CLAUDIO JAVIER<br>habilitacion: 15000542<br>cubiertos: 80<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Televisión- wifi<br>vencimiento: 22/08/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Lo de Mirta",
+                "ubicacion": "Franklin 584",
+                "telefono": "2241-423744",
+                "propietario": "BRENNA CLAUDIO JAVIER",
+                "habilitacion": "15000542",
+                "cubiertos": "80",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Televisión- wifi",
+                "vencimiento": "22/08/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.983583,
+                    -35.558937,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Lo de Pietro<br>ubicacion: Ruta 2 km 120<br>telefono: 2241 549188<br>propietario: PIETROPAOLO PIERINO EMMANUEL<br>habilitacion: 15000666<br>cubiertos: 180<br>mail: Patriciopietropaolo@gmail.com<br>medios_pago: Crédito / Débito / Mercado Pago / Cuenta DNI / Transferencia<br>sin_tacc: NO<br>vegano: NO<br>vegetariano: NO<br>delivery: NO<br>take_away: SI<br>accesibilidad: <br>observaciones: WI- fi- Estacionamiento adaptado<br>vencimiento: 25/10/2024"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Lo de Pietro",
+                "ubicacion": "Ruta 2 km 120",
+                "telefono": "2241 549188",
+                "propietario": "PIETROPAOLO PIERINO EMMANUEL",
+                "habilitacion": "15000666",
+                "cubiertos": "180",
+                "mail": "Patriciopietropaolo@gmail.com",
+                "medios_pago": "Crédito / Débito / Mercado Pago / Cuenta DNI / Transferencia",
+                "sin_tacc": "NO",
+                "vegano": "NO",
+                "vegetariano": "NO",
+                "delivery": "NO",
+                "take_away": "SI",
+                "accesibilidad": "",
+                "observaciones": "WI- fi- Estacionamiento adaptado",
+                "vencimiento": "25/10/2024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.015019,
+                    -35.564699,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Martín Fierro<br>ubicacion: Alvear 679<br>telefono: 2241527444<br>propietario: MOLTRASIO LUIS SEBASTIAN<br>habilitacion: 15000740<br>cubiertos: 50<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: wi- fi<br>vencimiento: 15/12/2024"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Martín Fierro",
+                "ubicacion": "Alvear 679",
+                "telefono": "2241527444",
+                "propietario": "MOLTRASIO LUIS SEBASTIAN",
+                "habilitacion": "15000740",
+                "cubiertos": "50",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "wi- fi",
+                "vencimiento": "15/12/2024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.012881,
+                    -35.528061,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Mc Donald<br>ubicacion: Ruta 2 km 115<br>telefono: 0810-666-1212<br>propietario: ARCOS DORADOS S.A.<br>habilitacion: 15000234<br>cubiertos: 144<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Fast food<br>vencimiento: 25/10/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Mc Donald",
+                "ubicacion": "Ruta 2 km 115",
+                "telefono": "0810-666-1212",
+                "propietario": "ARCOS DORADOS S.A.",
+                "habilitacion": "15000234",
+                "cubiertos": "144",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Fast food",
+                "vencimiento": "25/10/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.981868,
+                    -35.560865,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Parrilla \" La Corona\"<br>ubicacion: RUTA 2 KM 120.5<br>telefono: 02241- 544302<br>propietario: NORIEGA ALDANA DANIELA<br>habilitacion: 15000712<br>cubiertos: 90<br>mail: aldabanoriega@gmail.com<br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: WI- fi- Estacionamiento adaptado<br>vencimiento: 15/12/25"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Parrilla \" La Corona\"",
+                "ubicacion": "RUTA 2 KM 120.5",
+                "telefono": "02241- 544302",
+                "propietario": "NORIEGA ALDANA DANIELA",
+                "habilitacion": "15000712",
+                "cubiertos": "90",
+                "mail": "aldabanoriega@gmail.com",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "WI- fi- Estacionamiento adaptado",
+                "vencimiento": "15/12/25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.019895,
+                    -35.578191,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Parrilla al Paso<br>ubicacion: Av. Lastra 2<br>telefono: 2241 506626<br>propietario: IRIBARNE SUSANA BEATRIZ<br>habilitacion: 15000667<br>cubiertos: 40<br>mail: soledadcambier@hotmail.com<br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: WIfi<br>vencimiento: 10/12/2027"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Parrilla al Paso",
+                "ubicacion": "Av. Lastra 2",
+                "telefono": "2241 506626",
+                "propietario": "IRIBARNE SUSANA BEATRIZ",
+                "habilitacion": "15000667",
+                "cubiertos": "40",
+                "mail": "soledadcambier@hotmail.com",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "WIfi",
+                "vencimiento": "10/12/2027"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.016303,
+                    -35.582115,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Patos<br>ubicacion: Muñiz y Rioja<br>telefono: 2241 461934<br>propietario: SCOFFANO PATRICIA ELENA<br>habilitacion: 15000366<br>cubiertos: 80<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: WI- fi<br>vencimiento: 10/07/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Patos",
+                "ubicacion": "Muñiz y Rioja",
+                "telefono": "2241 461934",
+                "propietario": "SCOFFANO PATRICIA ELENA",
+                "habilitacion": "15000366",
+                "cubiertos": "80",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "WI- fi",
+                "vencimiento": "10/07/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.954124,
+                    -35.683843,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Pulpería Adela palqueguste<br>ubicacion: Ruta 2 Km 134<br>telefono: 2241-544050<br>propietario: AUL QUE LE GUSTE SIMPLE ASOCIACION<br>habilitacion: 15000772<br>cubiertos: 200<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: <br>vencimiento: 20/08/2027"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Pulpería Adela palqueguste",
+                "ubicacion": "Ruta 2 Km 134",
+                "telefono": "2241-544050",
+                "propietario": "AUL QUE LE GUSTE SIMPLE ASOCIACION",
+                "habilitacion": "15000772",
+                "cubiertos": "200",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "",
+                "vencimiento": "20/08/2027"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.092728,
+                    -35.449555,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Pulpería Gandara<br>ubicacion: CAMINO A GANDARA<br>telefono: <br>propietario: CAPPIELLO SEBASTIAN RAFAEL<br>habilitacion: 13004467<br>cubiertos: 0<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Almacen, (pulpería)<br>vencimiento: 10/11/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Pulpería Gandara",
+                "ubicacion": "CAMINO A GANDARA",
+                "telefono": "",
+                "propietario": "CAPPIELLO SEBASTIAN RAFAEL",
+                "habilitacion": "13004467",
+                "cubiertos": "0",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Almacen, (pulpería)",
+                "vencimiento": "10/11/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.00981,
+                    -35.578749,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Pumm Pizzería<br>ubicacion: San Martín 52<br>telefono: 2241- 676322<br>propietario: CASCO OLIVERA NICOLAS ALEJANDRO<br>habilitacion: 13004042<br>cubiertos: 30<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Pizzería<br>vencimiento: 09/08/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Pumm Pizzería",
+                "ubicacion": "San Martín 52",
+                "telefono": "2241- 676322",
+                "propietario": "CASCO OLIVERA NICOLAS ALEJANDRO",
+                "habilitacion": "13004042",
+                "cubiertos": "30",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Pizzería",
+                "vencimiento": "09/08/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.020575,
+                    -35.578427,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Restaurant Naútico<br>ubicacion: Av. Costanera España 2<br>telefono: 2241- 424455<br>propietario: ROCCA MARIA FLORENCIA<br>habilitacion: 15000491<br>cubiertos: 180<br>mail: florencia_rocca@hotmail.com<br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: wi- fi- salón para eventos<br>vencimiento: 12/07/2025"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Restaurant Naútico",
+                "ubicacion": "Av. Costanera España 2",
+                "telefono": "2241- 424455",
+                "propietario": "ROCCA MARIA FLORENCIA",
+                "habilitacion": "15000491",
+                "cubiertos": "180",
+                "mail": "florencia_rocca@hotmail.com",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "wi- fi- salón para eventos",
+                "vencimiento": "12/07/2025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.009766,
+                    -35.584232,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Restaurante Nautico y Deportivo Club de Regatas<br>ubicacion: Av Costanera España y Moreno<br>telefono: 2241-422286<br>propietario: OTERO SEBASTIAN DIEGO.-<br>habilitacion: 15000342<br>cubiertos: 180<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Música funcional- wi- fi -aire acondicionado<br>vencimiento: 2/3/26"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Restaurante Nautico y Deportivo Club de Regatas",
+                "ubicacion": "Av Costanera España y Moreno",
+                "telefono": "2241-422286",
+                "propietario": "OTERO SEBASTIAN DIEGO.-",
+                "habilitacion": "15000342",
+                "cubiertos": "180",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Música funcional- wi- fi -aire acondicionado",
+                "vencimiento": "2/3/26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.014976,
+                    -35.575113,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Ringo Bar (Resto) CERRÓ<br>ubicacion: Belgrano 139<br>telefono: 02241 41-6040<br>propietario: SCHWERTER PERALTA GERARDO ANDRES<br>habilitacion: 15000734<br>cubiertos: 100<br>mail: ringobarhotel@gmail.com<br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Wi- fi<br>vencimiento: 16/07/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Ringo Bar (Resto) CERRÓ",
+                "ubicacion": "Belgrano 139",
+                "telefono": "02241 41-6040",
+                "propietario": "SCHWERTER PERALTA GERARDO ANDRES",
+                "habilitacion": "15000734",
+                "cubiertos": "100",
+                "mail": "ringobarhotel@gmail.com",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Wi- fi",
+                "vencimiento": "16/07/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.01413,
+                    -35.574426,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Teofilo<br>ubicacion: Libres del Sur 156<br>telefono: 02241 430574<br>propietario: IGLESIAS NICOLAS ARIEL<br>habilitacion: 15000538<br>cubiertos: 70<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Wi-fi/ Calefacción- aire acondicionado , televisores<br>vencimiento: 10/04/2029"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Teofilo",
+                "ubicacion": "Libres del Sur 156",
+                "telefono": "02241 430574",
+                "propietario": "IGLESIAS NICOLAS ARIEL",
+                "habilitacion": "15000538",
+                "cubiertos": "70",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Wi-fi/ Calefacción- aire acondicionado , televisores",
+                "vencimiento": "10/04/2029"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.019322,
+                    -35.623428,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Thifran habilitación vencida<br>ubicacion: Del Encuentro 239<br>telefono: 2241-515544<br>propietario: <br>habilitacion: <br>cubiertos: 0<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: <br>vencimiento: vencida"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Thifran habilitación vencida",
+                "ubicacion": "Del Encuentro 239",
+                "telefono": "2241-515544",
+                "propietario": "",
+                "habilitacion": "",
+                "cubiertos": "0",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "",
+                "vencimiento": "vencida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.013814,
+                    -35.576002,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Bicho raro (Ex tribeca)<br>ubicacion: Libres del Sur 82<br>telefono: 2241- 527106<br>propietario: Dos Santos<br>habilitacion: 15000760<br>cubiertos: 62<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Take away- wifi<br>vencimiento: 25/8/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Bicho raro (Ex tribeca)",
+                "ubicacion": "Libres del Sur 82",
+                "telefono": "2241- 527106",
+                "propietario": "Dos Santos",
+                "habilitacion": "15000760",
+                "cubiertos": "62",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Take away- wifi",
+                "vencimiento": "25/8/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.004786,
+                    -35.583049,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Vieja Esquina<br>ubicacion: Artigas 90<br>telefono: 2241- 500999- 2241 436507<br>propietario: CAFE MULE SRL<br>habilitacion: 15000498<br>cubiertos: 180<br>mail: cafemulesrl@gmail.com<br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Wi-fi, calefacción, Aire acondicionado<br>vencimiento: 26/06/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Vieja Esquina",
+                "ubicacion": "Artigas 90",
+                "telefono": "2241- 500999- 2241 436507",
+                "propietario": "CAFE MULE SRL",
+                "habilitacion": "15000498",
+                "cubiertos": "180",
+                "mail": "cafemulesrl@gmail.com",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Wi-fi, calefacción, Aire acondicionado",
+                "vencimiento": "26/06/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.01611,
+                    -35.574643,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: MOLDE<br>ubicacion: Lincoln 157<br>telefono: 2241- 414920<br>propietario: SIMMCHAS S.A<br>habilitacion: 15000771<br>cubiertos: 80<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: Pizzería<br>vencimiento: 25/06/2027"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "MOLDE",
+                "ubicacion": "Lincoln 157",
+                "telefono": "2241- 414920",
+                "propietario": "SIMMCHAS S.A",
+                "habilitacion": "15000771",
+                "cubiertos": "80",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "Pizzería",
+                "vencimiento": "25/06/2027"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.00506,
+                    -35.57137,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: BACH<br>ubicacion: Belbezé 153<br>telefono: 2241-558837<br>propietario: DELGADO PABLO HERNAN<br>habilitacion: 15000674<br>cubiertos: 50<br>mail: Pablohernandelgado@gmail.com<br>medios_pago: Cuenta DNI / Mercado Pago/ Efectivo<br>sin_tacc: <br>vegano: <br>vegetariano: SI<br>delivery: SI<br>take_away: <br>accesibilidad: <br>observaciones: <br>vencimiento: 30/06/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "BACH",
+                "ubicacion": "Belbezé 153",
+                "telefono": "2241-558837",
+                "propietario": "DELGADO PABLO HERNAN",
+                "habilitacion": "15000674",
+                "cubiertos": "50",
+                "mail": "Pablohernandelgado@gmail.com",
+                "medios_pago": "Cuenta DNI / Mercado Pago/ Efectivo",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "SI",
+                "delivery": "SI",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "",
+                "vencimiento": "30/06/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.012342,
+                    -35.580205,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: BAR ALSINA<br>ubicacion: Alsina esq. Newbery<br>telefono: 2241 508746<br>propietario: Gustavo López<br>habilitacion: 15000777<br>cubiertos: 20<br>mail: laesquinadealsina@gmail.com<br>medios_pago: Todos los medios de pagos<br>sin_tacc: no<br>vegano: no<br>vegetariano: si<br>delivery: no<br>take_away: si<br>accesibilidad: si<br>observaciones: <br>vencimiento: 10/8/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "BAR ALSINA",
+                "ubicacion": "Alsina esq. Newbery",
+                "telefono": "2241 508746",
+                "propietario": "Gustavo López",
+                "habilitacion": "15000777",
+                "cubiertos": "20",
+                "mail": "laesquinadealsina@gmail.com",
+                "medios_pago": "Todos los medios de pagos",
+                "sin_tacc": "no",
+                "vegano": "no",
+                "vegetariano": "si",
+                "delivery": "no",
+                "take_away": "si",
+                "accesibilidad": "si",
+                "observaciones": "",
+                "vencimiento": "10/8/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.008701,
+                    -35.531865,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Dean &amp; Dennys (Estación Puma)<br>ubicacion: Autovía 2 km 116<br>telefono: 2241617191<br>propietario: Piazza Pablo<br>habilitacion: 17000036<br>cubiertos: 60<br>mail: supersietechascomus@gmail.com<br>medios_pago: Tarjeta de débito, crédito, mercado pago, cuenta dni, efectvo.<br>sin_tacc: si<br>vegano: no<br>vegetariano: Si<br>delivery: si<br>take_away: si<br>accesibilidad: si<br>observaciones: <br>vencimiento: 14/03/2025"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Dean &amp; Dennys (Estación Puma)",
+                "ubicacion": "Autovía 2 km 116",
+                "telefono": "2241617191",
+                "propietario": "Piazza Pablo",
+                "habilitacion": "17000036",
+                "cubiertos": "60",
+                "mail": "supersietechascomus@gmail.com",
+                "medios_pago": "Tarjeta de débito, crédito, mercado pago, cuenta dni, efectvo.",
+                "sin_tacc": "si",
+                "vegano": "no",
+                "vegetariano": "Si",
+                "delivery": "si",
+                "take_away": "si",
+                "accesibilidad": "si",
+                "observaciones": "",
+                "vencimiento": "14/03/2025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.016308,
+                    -35.572066,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: De la Plaza Burger Bar<br>ubicacion: Mazzini y Linconl<br>telefono: 02241- 68-6272<br>propietario: Carlos Coveta<br>habilitacion: 15000691<br>cubiertos: 32<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: <br>vencimiento: 27/12/2025"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "De la Plaza Burger Bar",
+                "ubicacion": "Mazzini y Linconl",
+                "telefono": "02241- 68-6272",
+                "propietario": "Carlos Coveta",
+                "habilitacion": "15000691",
+                "cubiertos": "32",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "",
+                "vencimiento": "27/12/2025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.012291,
+                    -35.577729,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: El Costal Café<br>ubicacion: Av. Lastra 272<br>telefono: 2241-414961<br>propietario: Juan Cruz Apaolaza<br>habilitacion: 13004303<br>cubiertos: 30<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: <br>vencimiento: 15/03/2025"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "El Costal Café",
+                "ubicacion": "Av. Lastra 272",
+                "telefono": "2241-414961",
+                "propietario": "Juan Cruz Apaolaza",
+                "habilitacion": "13004303",
+                "cubiertos": "30",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "",
+                "vencimiento": "15/03/2025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.936685,
+                    -35.572522,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: El Monturero<br>ubicacion: Camino a Libres 0795. 4km Ruta 2<br>telefono: 2241-547846<br>propietario: NOBILE MONICA PATRICIA<br>habilitacion: 15000696<br>cubiertos: 60<br>mail: info@estanciapedrochico.com.ar gabynieto@yahoo.com<br>medios_pago: Transferencia, efectivo, tarjeta de crédito.<br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: <br>vencimiento: 20/11/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "El Monturero",
+                "ubicacion": "Camino a Libres 0795. 4km Ruta 2",
+                "telefono": "2241-547846",
+                "propietario": "NOBILE MONICA PATRICIA",
+                "habilitacion": "15000696",
+                "cubiertos": "60",
+                "mail": "info@estanciapedrochico.com.ar gabynieto@yahoo.com",
+                "medios_pago": "Transferencia, efectivo, tarjeta de crédito.",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "",
+                "vencimiento": "20/11/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.012844,
+                    -35.576649,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Lo de Toribio<br>ubicacion: Alvear 49<br>telefono: 2241 514982<br>propietario: DISTRIBUIDORA COSTA GRANDE SRL<br>habilitacion: 15000774<br>cubiertos: 50<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: <br>vencimiento: 15/02/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Lo de Toribio",
+                "ubicacion": "Alvear 49",
+                "telefono": "2241 514982",
+                "propietario": "DISTRIBUIDORA COSTA GRANDE SRL",
+                "habilitacion": "15000774",
+                "cubiertos": "50",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "",
+                "vencimiento": "15/02/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.015369,
+                    -35.582448,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Catalpa resto.<br>ubicacion: Av. Costanera España y Sta. Fe<br>telefono: 2241-526589<br>propietario: <br>habilitacion: 16000422<br>cubiertos: 82<br>mail: Catalparestaurante@gmail.com<br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: <br>vencimiento: 15/03/2026"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Catalpa resto.",
+                "ubicacion": "Av. Costanera España y Sta. Fe",
+                "telefono": "2241-526589",
+                "propietario": "",
+                "habilitacion": "16000422",
+                "cubiertos": "82",
+                "mail": "Catalparestaurante@gmail.com",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "",
+                "vencimiento": "15/03/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.008437,
+                    -35.58066,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: 33 Beer &amp; Burger<br>ubicacion: Pte Perón 255, esq. Mendoza<br>telefono: 2241 526505<br>propietario: Mariana Elín Torres<br>habilitacion: 15000785<br>cubiertos: 20<br>mail: mariana.etorres@gmail.com<br>medios_pago: Débito, mercado pago, cuenta dni.<br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: <br>vencimiento: 18/07/2028"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "33 Beer &amp; Burger",
+                "ubicacion": "Pte Perón 255, esq. Mendoza",
+                "telefono": "2241 526505",
+                "propietario": "Mariana Elín Torres",
+                "habilitacion": "15000785",
+                "cubiertos": "20",
+                "mail": "mariana.etorres@gmail.com",
+                "medios_pago": "Débito, mercado pago, cuenta dni.",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "",
+                "vencimiento": "18/07/2028"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.012628,
+                    -35.57561,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Entre Panas<br>ubicacion: Soler 137<br>telefono: 2241 41 9263<br>propietario: Manuel Alberto Segovia Zerpa<br>habilitacion: A3-4586<br>cubiertos: 6<br>mail: entrepanas.ve.ar@gmail.com<br>medios_pago: efectivo y transferencia<br>sin_tacc: si<br>vegano: si<br>vegetariano: si<br>delivery: si<br>take_away: si<br>accesibilidad: ingreso a nivel de la vereda para sillas de ruedas<br>observaciones: <br>vencimiento: 19/12/2028"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Entre Panas",
+                "ubicacion": "Soler 137",
+                "telefono": "2241 41 9263",
+                "propietario": "Manuel Alberto Segovia Zerpa",
+                "habilitacion": "A3-4586",
+                "cubiertos": "6",
+                "mail": "entrepanas.ve.ar@gmail.com",
+                "medios_pago": "efectivo y transferencia",
+                "sin_tacc": "si",
+                "vegano": "si",
+                "vegetariano": "si",
+                "delivery": "si",
+                "take_away": "si",
+                "accesibilidad": "ingreso a nivel de la vereda para sillas de ruedas",
+                "observaciones": "",
+                "vencimiento": "19/12/2028"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.008145,
+                    -35.583742,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Macuco<br>ubicacion: Av. Costanera 19<br>telefono: 2241-583593<br>propietario: <br>habilitacion: A5-0776<br>cubiertos: 100<br>mail: <br>medios_pago: Crédito, débito, transferencia<br>sin_tacc: NO<br>vegano: NO<br>vegetariano: SI<br>delivery: NO<br>take_away: SI<br>accesibilidad: <br>observaciones: <br>vencimiento: 30/9/2027"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Macuco",
+                "ubicacion": "Av. Costanera 19",
+                "telefono": "2241-583593",
+                "propietario": "",
+                "habilitacion": "A5-0776",
+                "cubiertos": "100",
+                "mail": "",
+                "medios_pago": "Crédito, débito, transferencia",
+                "sin_tacc": "NO",
+                "vegano": "NO",
+                "vegetariano": "SI",
+                "delivery": "NO",
+                "take_away": "SI",
+                "accesibilidad": "",
+                "observaciones": "",
+                "vencimiento": "30/9/2027"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.004117,
+                    -35.583092,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Möca, Cafe y chocolate<br>ubicacion: Av. Costanera Lopez Osornio 23<br>telefono: 2241-558231<br>propietario: GONZALEZ MARIA SUSANA<br>habilitacion: 15000762<br>cubiertos: 0<br>mail: <br>medios_pago: <br>sin_tacc: <br>vegano: <br>vegetariano: <br>delivery: <br>take_away: <br>accesibilidad: <br>observaciones: <br>vencimiento: 30/11/26"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Möca, Cafe y chocolate",
+                "ubicacion": "Av. Costanera Lopez Osornio 23",
+                "telefono": "2241-558231",
+                "propietario": "GONZALEZ MARIA SUSANA",
+                "habilitacion": "15000762",
+                "cubiertos": "0",
+                "mail": "",
+                "medios_pago": "",
+                "sin_tacc": "",
+                "vegano": "",
+                "vegetariano": "",
+                "delivery": "",
+                "take_away": "",
+                "accesibilidad": "",
+                "observaciones": "",
+                "vencimiento": "30/11/26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.005457,
+                    -35.572547,
+                    0
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "styleUrl: #icon-1899-0288D1-labelson<br>icon-opacity: 1<br>icon-color: #0288d1<br>icon-scale: 1<br>icon-offset: [32,64]<br>icon-offset-units: [\"pixels\",\"insetPixels\"]<br>icon: https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png<br>Descripción: <br>nombre: Andy Restó<br>ubicacion: Garay 151<br>telefono: 2241-687611<br>propietario: Balzer Andrea Isabel<br>habilitacion: A5-0784<br>cubiertos: 60<br>mail: andyrestosaludable@gmail.com<br>medios_pago: <br>sin_tacc: si<br>vegano: no<br>vegetariano: si<br>delivery: <br>take_away: si<br>accesibilidad: <br>observaciones: <br>vencimiento: 10/11/26"
+                },
+                "styleUrl": "#icon-1899-0288D1-labelson",
+                "label-scale": 0,
+                "icon-opacity": "1",
+                "icon-color": "#0288d1",
+                "icon-scale": "1",
+                "icon-offset": "[32,64]",
+                "icon-offset-units": "[\"pixels\",\"insetPixels\"]",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "nombre": "Andy Restó",
+                "ubicacion": "Garay 151",
+                "telefono": "2241-687611",
+                "propietario": "Balzer Andrea Isabel",
+                "habilitacion": "A5-0784",
+                "cubiertos": "60",
+                "mail": "andyrestosaludable@gmail.com",
+                "medios_pago": "",
+                "sin_tacc": "si",
+                "vegano": "no",
+                "vegetariano": "si",
+                "delivery": "",
+                "take_away": "si",
+                "accesibilidad": "",
+                "observaciones": "",
+                "vencimiento": "10/11/26"
+            }
+        }
+    ]
+}

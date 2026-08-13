@@ -1,0 +1,3105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.060467,
+          -35.5776639
+        ]
+      },
+      "properties": {
+        "nombre": "AIRES DEL BOSQUE (7)",
+        "ubicacion": "Av. Laguna Adela 134 Cmno. Circ km. 19,500 - Lomas Altas",
+        "telefono": "2241-699659",
+        "email": "complejoairesdelbosque@gmail.com",
+        "plazas": 20,
+        "servicios": "Ropa Blanca",
+        "propietario": "Andres Focht Alfredo Pereyra",
+        "habilitacion": "15/12/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9991932,
+          -35.5792821
+        ]
+      },
+      "properties": {
+        "nombre": "AKAPACHA (3)",
+        "ubicacion": "Olmos 189",
+        "telefono": "02241 15469126",
+        "email": "akapachachascomus@gmail.com",
+        "plazas": 16,
+        "servicios": "Cocina Completa",
+        "propietario": "Gabriel Logarzo",
+        "habilitacion": "21/12/2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9882274,
+          -35.6068405
+        ]
+      },
+      "properties": {
+        "nombre": "ALMA PAMPA (3)",
+        "ubicacion": "Cmno. Circunvalacion km 12,6",
+        "telefono": "011-1532346318",
+        "email": "almapampa@outlook.com",
+        "plazas": 15,
+        "servicios": "Vajilla Completa",
+        "propietario": "Nestor Romeo",
+        "habilitacion": "6/5/2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9900612,
+          -35.5879812
+        ]
+      },
+      "properties": {
+        "nombre": "ALTOS DE LA LAGUNA (4)",
+        "ubicacion": "Tres Arroyos y Bragado",
+        "telefono": "02241- 15682397",
+        "email": "altoschascomus@gmail.com",
+        "plazas": 15,
+        "servicios": "Mucama",
+        "propietario": "Alfredo Braga",
+        "habilitacion": "7/12/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0160329,
+          -35.626225
+        ]
+      },
+      "properties": {
+        "nombre": "ALTOS DEL ENCUENTRO (4)",
+        "ubicacion": "del Encuentro 173 Bº Pàrque Girado",
+        "telefono": "011-40330703",
+        "email": "altosdelencuentro@yahoo.com.ar",
+        "plazas": 16,
+        "servicios": "A/A",
+        "propietario": "Iribarren Maria de las Mercedes",
+        "habilitacion": "12/03/2028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.014749,
+          -35.573527
+        ]
+      },
+      "properties": {
+        "nombre": "AMANECER (3)",
+        "ubicacion": "Franklin 230",
+        "telefono": "2241-440406",
+        "email": "apartamanecerchascomus@gmail.com",
+        "plazas": 14,
+        "servicios": "Desayuno",
+        "propietario": "Héctor Daniel Dorronsoro",
+        "habilitacion": "20/8/2027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0160329,
+          -35.626225
+        ]
+      },
+      "properties": {
+        "nombre": "APART NAUTICO (10)",
+        "ubicacion": "Cmno. Circunvalacion y Pampero - Bº Parque Girado",
+        "telefono": "02241-425738 - 02241-15531943",
+        "email": "guarderianautica_chascomus@hotmail.com",
+        "plazas": 39,
+        "servicios": "Vajilla",
+        "propietario": "Eva Tropea/ aceptan mascotas (pequeñas)",
+        "habilitacion": "23/4/2028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9912955,
+          -35.58215
+        ]
+      },
+      "properties": {
+        "nombre": "ARAMIS (8)",
+        "ubicacion": "G. Chaves 645",
+        "telefono": "2241-545104",
+        "email": "aramiscabanas@hotmail.com",
+        "plazas": 35,
+        "servicios": "Ropa Blanca - piscina",
+        "propietario": "Abarca Jesica Pamela )",
+        "habilitacion": "16/4/2029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9735184,
+          -35.6031883
+        ]
+      },
+      "properties": {
+        "nombre": "AROMA DE CAMPO (3)",
+        "ubicacion": "De los Patos 25. La Liberata",
+        "telefono": "11-58775093",
+        "email": "aromadecampochascomus@gmail.com",
+        "plazas": 14,
+        "servicios": "Piscina",
+        "propietario": "Rodriguez Maria Agustina",
+        "habilitacion": "13/2/2028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.015553,
+          -35.6253387
+        ]
+      },
+      "properties": {
+        "nombre": "AYMA (5)",
+        "ubicacion": "Tunquelen 81 - Bº Parque Girado",
+        "telefono": "011-1549868782",
+        "email": "aymachascomus@gmail.com",
+        "plazas": 22,
+        "servicios": "Pileta",
+        "propietario": "Mario Andres Vazquez",
+        "habilitacion": "20/5/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0262599,
+          -35.5679185
+        ]
+      },
+      "properties": {
+        "nombre": "fINCA LOS CAUQUENES (5)",
+        "ubicacion": "Roca 708",
+        "telefono": "11-60922483",
+        "email": "info@aparthotelboulevard.com.ar",
+        "plazas": 33,
+        "servicios": "Desayuno",
+        "propietario": "Daniel Laméndola",
+        "habilitacion": "19/3/2028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9690443,
+          -35.6086654
+        ]
+      },
+      "properties": {
+        "nombre": "CABAÑAS CHASCOMUS (6)",
+        "ubicacion": "Martineta 21 Bº La Liberata",
+        "telefono": "011-59079073",
+        "email": "vamosachasco@yahoo.com.ar",
+        "plazas": 24,
+        "servicios": "Vajilla Completa",
+        "propietario": "Andrea Giamarrusco",
+        "habilitacion": "11/06/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4373928,
+          -34.5427555
+        ]
+      },
+      "properties": {
+        "nombre": "CABAÑAS LA HUELLA (4 hasta p/4p)",
+        "ubicacion": "Av. Costanera 19",
+        "telefono": "2241-458479",
+        "email": "tobileydes99@gmail.com",
+        "plazas": 16,
+        "servicios": "Estacionamiento- Parrila- Aire acondicionado- Wifi- Parque- espacio verde- Desayuno",
+        "propietario": "Rodrigo Carlos Serrano",
+        "habilitacion": "30/9/2027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0244198,
+          -35.5670803
+        ]
+      },
+      "properties": {
+        "nombre": "CASABLANCA (4)",
+        "ubicacion": "Orzali y Tucuman",
+        "telefono": "436420",
+        "email": "casablanca@chascomus.com.ar",
+        "plazas": 16,
+        "servicios": "Ropa Blanca",
+        "propietario": "Marta Carmen Pinelli",
+        "habilitacion": "05/06/2028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0198093,
+          -35.5684694
+        ]
+      },
+      "properties": {
+        "nombre": "CASACOLINA (7)",
+        "ubicacion": "Dorrego y R. de Escalada 459",
+        "telefono": "11-59961963/ 423277",
+        "email": "casacolinachascomus@gmail.com",
+        "plazas": 19,
+        "servicios": "Ropa Blanca",
+        "propietario": "Andres Eduardo Wallace- Alquila a Marcelo Souza",
+        "habilitacion": "16/08/2027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0161666,
+          -35.5817389
+        ]
+      },
+      "properties": {
+        "nombre": "CASALAGUNA (6)",
+        "ubicacion": "Muñiz 261",
+        "telefono": "11- 28974521",
+        "email": "info@casalaguna.com.ar",
+        "plazas": 26,
+        "servicios": "Totalmente equipadas, Ropa de cama.",
+        "propietario": "Pablo Carossio",
+        "habilitacion": "28/2/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0042827,
+          -35.582987
+        ]
+      },
+      "properties": {
+        "nombre": "CHASCOMUS APPART HOTEL (8 cab, 6 hab)",
+        "ubicacion": "Av. Costanera López Osornio 23",
+        "telefono": "425731- 2241513442",
+        "email": "reservas@chascomusappart.com.ar",
+        "plazas": 48,
+        "servicios": "Ropa Blanca. NO admiten mascotas",
+        "propietario": "GONZALEZ MARIA SUSANA",
+        "habilitacion": "vence el 3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9743015,
+          -35.6022267
+        ]
+      },
+      "properties": {
+        "nombre": "CINCO ELEMENTOS(4)",
+        "ubicacion": "De las Martinetas 33. La Liberata",
+        "telefono": "113-189-0727",
+        "email": "Complejocincoelementos@yahoo.com",
+        "plazas": 14,
+        "servicios": "Aire acondicionado\n Estacionamiento cubierto\n  Wi-Fi\n Parrilla\n Piscina\n Juegos para niños\n Acepta mascotas",
+        "propietario": "Iribarne José",
+        "habilitacion": "23/12/2027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0160329,
+          -35.626225
+        ]
+      },
+      "properties": {
+        "nombre": "COMPLEJO LA CALMA (solo pareja) (4)",
+        "ubicacion": "Los Cardales 119 ( Parque Girado)",
+        "telefono": "011-1523432500",
+        "email": "complejolacalma@gmail.com",
+        "plazas": 8,
+        "servicios": "Vajilla completa",
+        "propietario": "Guillermo Ramirez Dauria",
+        "habilitacion": "16/4/2029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0717123,
+          -35.5869707
+        ]
+      },
+      "properties": {
+        "nombre": "COMPLEJO RAÍCES. (6)Nuevo",
+        "ubicacion": "Av. Laguna del Burro 164",
+        "telefono": "11-27058089",
+        "email": "complejoraiceschascomus@gmail.com",
+        "plazas": 20,
+        "servicios": "Acepta mascotas",
+        "propietario": "GUTIERREZ VERONICA CAROLINA",
+        "habilitacion": "27/8/2028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0186081,
+          -35.625679
+        ]
+      },
+      "properties": {
+        "nombre": "COSTA DEL SOL (7)",
+        "ubicacion": "Del Encuentro 185 y Pampero- Bº Parque Girado",
+        "telefono": "2241- 530969",
+        "email": "cabanascostadelsolchascomus@gmail.com",
+        "plazas": 24,
+        "servicios": "Desayuno/ Aceptan mascotas",
+        "propietario": "Veronica Alejandra Bitelmajer",
+        "habilitacion": "12/12/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0160329,
+          -35.626225
+        ]
+      },
+      "properties": {
+        "nombre": "DESCANSO EL SECRETO (4)",
+        "ubicacion": "La Huella 121 Bº Parque Girado",
+        "telefono": "11- 58364415",
+        "email": "descansoelsecreto@gmail.com",
+        "plazas": 12,
+        "servicios": "Ropa Blanca",
+        "propietario": "Alejandra Vujovich",
+        "habilitacion": "12/12/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0577699,
+          -35.5711869
+        ]
+      },
+      "properties": {
+        "nombre": "DON LUCIANO (8)",
+        "ubicacion": "Av pedro urruty chacra 100",
+        "telefono": "2241414889",
+        "email": "donlucianochacra100@gmail.com",
+        "plazas": 30,
+        "servicios": "cabañas 100% ECOLÓGICO de alquiler temporal de cabañas.",
+        "propietario": "Gutierrez leandro",
+        "habilitacion": "15/5/2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0136464,
+          -35.5776723
+        ]
+      },
+      "properties": {
+        "nombre": "DOÑA MARGARITA (6)",
+        "ubicacion": "EE.UU 33",
+        "telefono": "2241 54-0116",
+        "email": "juanroquegarat@hotmail.com",
+        "plazas": 25,
+        "servicios": "- Vajilla\n - Piscina\n - Estacionamiento descubierto\n - Acepta mascotas\n - Wi-Fi\n - Parrilla\n - Aire Acondicionado\n - Quincho techado y deck de descanso.\n -Desayuno con productos locales y opciones veganas y sin tacc",
+        "propietario": "Roque Garat\n Penélope Garat",
+        "habilitacion": "1/8/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0240183,
+          -35.5636096
+        ]
+      },
+      "properties": {
+        "nombre": "EL ARUMCO (4)",
+        "ubicacion": "Saturnino Justo 457",
+        "telefono": "02241-15571692/ 680489",
+        "email": "el_arumco@hotmail.com",
+        "plazas": 15,
+        "servicios": "Ropa Blanca",
+        "propietario": "Juan Carlos Figueroa",
+        "habilitacion": "10/12/2027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0275046,
+          -35.5637962
+        ]
+      },
+      "properties": {
+        "nombre": "EL REFUGIO (7)",
+        "ubicacion": "Escribano 654 esq. Orzali",
+        "telefono": "02241- 425673/1160035225",
+        "email": "cabelrefugio@infovia.com.ar",
+        "plazas": 31,
+        "servicios": "- Piscina cubierta climatizada todo el año\n -Estacionamiento descubierto\n -Parrilla\n - Aire acondicionado\n - WI-fi\n -Parque con glorieta y pergola\n -Acepta mascotas\n -Jacuzzi\n -Desayuno con productos locales",
+        "propietario": "Pablo Martin Demicheli",
+        "habilitacion": "16/04/2029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9721952,
+          -35.6037994
+        ]
+      },
+      "properties": {
+        "nombre": "EL MANGRULLO (6)",
+        "ubicacion": "De las gallaretas 6. La Liberata",
+        "telefono": "11 4047-7810",
+        "email": "sergio_dani24@hotmail.com",
+        "plazas": 28,
+        "servicios": "TV con cable. WiFi. Aa cc",
+        "propietario": "Carmen Liñan Alva",
+        "habilitacion": "29/11/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0421492,
+          -35.5357541
+        ]
+      },
+      "properties": {
+        "nombre": "ESTANCIA LAGUNA VITEL (14)",
+        "ubicacion": "Ruta 20 km 84",
+        "telefono": "1133503343/ 2241692232",
+        "email": "",
+        "plazas": 56,
+        "servicios": "",
+        "propietario": "ESTANCIA LAGUNA VITEL S.A",
+        "habilitacion": "16/7/2022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9688732,
+          -35.6113139
+        ]
+      },
+      "properties": {
+        "nombre": "FINCA LOS CAUQUENES (5)",
+        "ubicacion": "De los Cauquenes 21. La Liberata",
+        "telefono": "2241530730",
+        "email": "fincaloscauquenes@gmail.com",
+        "plazas": 12,
+        "servicios": "Piscina, mascota peque",
+        "propietario": "Guillermo Moron",
+        "habilitacion": "15/3/2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0241605,
+          -35.5346902
+        ]
+      },
+      "properties": {
+        "nombre": "HOJA DE LA TIERRA (7)",
+        "ubicacion": "Ruta 20 n° 386",
+        "telefono": "2241 - 466054",
+        "email": "hojadelatierra@gmail.com",
+        "plazas": 14,
+        "servicios": "- Estacionamiento cubierto\n - Parrilla\n - Aire Acondicionado\n - Wi-fi\n - Recreación para chicos\n - Acepta Mascotas\n - Desayuno con productos locales\n - Menú sin tacc en desayuno\n - Utiliza productos locales para el desayuno",
+        "propietario": "Alejandro Agrofoglio",
+        "habilitacion": "15/12/2022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.005287,
+          -35.5796745
+        ]
+      },
+      "properties": {
+        "nombre": "HOSTAL DEL FUERTE (4)",
+        "ubicacion": "Av. Costanera y Artigas",
+        "telefono": "02241- 676645",
+        "email": "hostaldelfuerte@gmail.com",
+        "plazas": 16,
+        "servicios": "Ropa Blanca",
+        "propietario": "Patricia Maffeo",
+        "habilitacion": "20/5/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9896222,
+          -35.5891274
+        ]
+      },
+      "properties": {
+        "nombre": "LA GIRALDILLA (9)",
+        "ubicacion": "Cost. Pedro Gaston 915",
+        "telefono": "11 35030253",
+        "email": "info@lagiraldilla.com.ar",
+        "plazas": 45,
+        "servicios": "Piscinas",
+        "propietario": "Tamayo Rigoberto Martin",
+        "habilitacion": "15/1/2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9929471,
+          -35.5536615
+        ]
+      },
+      "properties": {
+        "nombre": "LA GRULLA (18)",
+        "ubicacion": "Pellegrini 1200. La Esmeralda",
+        "telefono": "02241-562175",
+        "email": "info@complejolagrulla.com",
+        "plazas": 60,
+        "servicios": "Ropa Blanca",
+        "propietario": "Mario Nonaka Ana Jove",
+        "habilitacion": "11/7/2028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0727014,
+          -35.5842726
+        ]
+      },
+      "properties": {
+        "nombre": "LA FAMILIA (4) NUEVO",
+        "ubicacion": "De los Nísperos 60",
+        "telefono": "1169890363",
+        "email": "Fer22.villalba94@gmail.com",
+        "plazas": 24,
+        "servicios": "",
+        "propietario": "Villalba Martires Ramón",
+        "habilitacion": "15/12/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9983081,
+          -35.5786227
+        ]
+      },
+      "properties": {
+        "nombre": "LA CAÑADA (5)",
+        "ubicacion": "Chile 383",
+        "telefono": "2241- 495743",
+        "email": "lacanadachascomus@gmail.com",
+        "plazas": 20,
+        "servicios": "Piscina",
+        "propietario": "Gonzales Maria Susana",
+        "habilitacion": "30/11/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9717611,
+          -35.607619
+        ]
+      },
+      "properties": {
+        "nombre": "LA SOÑADA (4)",
+        "ubicacion": "De los Biguás 26, La Liberata",
+        "telefono": "02241-684119/693797",
+        "email": "marcelochas@yahoo.com.ar",
+        "plazas": 20,
+        "servicios": "- Piscina de temporada\n - Desayuno seco\n - Estacionamiento descubierto\n - Parrilla\n - Aire Acondicionado\n - Wi-fi\n - Acepta mascotas\n - Juegos para niños",
+        "propietario": "Marcelo Gomez",
+        "habilitacion": "16/04/2029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.982431,
+          -35.5861031
+        ]
+      },
+      "properties": {
+        "nombre": "LA SUBIDITA (4)",
+        "ubicacion": "Mercedes 622",
+        "telefono": "2241-470889",
+        "email": "telani_02@hotmail.com",
+        "plazas": 11,
+        "servicios": "",
+        "propietario": "Estela Noemí Gonzalez",
+        "habilitacion": "10/11/25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9910336,
+          -35.5816884
+        ]
+      },
+      "properties": {
+        "nombre": "LA VIÑA (5)",
+        "ubicacion": "Tres Arroyos 371",
+        "telefono": "425706 / 011- 1540791210",
+        "email": "cabanaslavina@hotmail.com",
+        "plazas": 23,
+        "servicios": "Ropa Blanca",
+        "propietario": "Montero Bernardette",
+        "habilitacion": "28/02/2028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9911548,
+          -35.5881078
+        ]
+      },
+      "properties": {
+        "nombre": "LAGOA AZUL (4)",
+        "ubicacion": "Bragado y Azul",
+        "telefono": "425326",
+        "email": "turismo@mutualccn.com.ar",
+        "plazas": 16,
+        "servicios": "Ropa Blanca",
+        "propietario": "Obra Social de Comisarios Navales",
+        "habilitacion": "08/07/2028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9898078,
+          -35.5819105
+        ]
+      },
+      "properties": {
+        "nombre": "LAGUNA PARK (9)",
+        "ubicacion": "Gonzalez Chavez 676",
+        "telefono": "02241-430327 - 0111564580272",
+        "email": "reservas@lagunapark.com.ar",
+        "plazas": 32,
+        "servicios": "Ropa Blanca",
+        "propietario": "Emprendimientos super nova S.A",
+        "habilitacion": "24/08/2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.026861,
+          -35.567396
+        ]
+      },
+      "properties": {
+        "nombre": "LAS CABAÑAS (10)",
+        "ubicacion": "Cost. Urruty y Tucuman",
+        "telefono": "424790//02241 15 605883",
+        "email": "apartlascabanas@hotmail.com",
+        "plazas": 34,
+        "servicios": "Ropa Blanca",
+        "propietario": "Adrián Salas",
+        "habilitacion": "15/9/2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0196617,
+          -35.6244485
+        ]
+      },
+      "properties": {
+        "nombre": "LAS CAMELIAS APART (7)",
+        "ubicacion": "El Pinar 245 - Bº Parque Girado",
+        "telefono": "011-50049518 / 011-1550058473",
+        "email": "ninodegisi@gmail.com",
+        "plazas": 36,
+        "servicios": "Vajilla Completa",
+        "propietario": "Ercilia Iandiorio",
+        "habilitacion": "15/11/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9825735,
+          -35.5881837
+        ]
+      },
+      "properties": {
+        "nombre": "LAS FLORES (7)",
+        "ubicacion": "Las Flores y Avellaneda",
+        "telefono": "011-1551847759",
+        "email": "campobransen@scdplanet.com.ar",
+        "plazas": 21,
+        "servicios": "Ropa Blanca",
+        "propietario": "Campo Brandsen",
+        "habilitacion": "29/11/2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9877086,
+          -35.5813238
+        ]
+      },
+      "properties": {
+        "nombre": "LAS MARGARITAS (5)",
+        "ubicacion": "B.Blanca y C. de Areco",
+        "telefono": "426007- 2241540561",
+        "email": "cabmargaritas@hotmail.com",
+        "plazas": 16,
+        "servicios": "Ropa Blanca",
+        "propietario": "Margarita Vilches",
+        "habilitacion": "07/08/28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9921489,
+          -35.5870316
+        ]
+      },
+      "properties": {
+        "nombre": "LAS MORADITAS (5) solo para parejas",
+        "ubicacion": "Magdalena 641",
+        "telefono": "2241- 578372",
+        "email": "infolasmoraditas@yahoo.com.ar",
+        "plazas": 10,
+        "servicios": "Ropa Blanca",
+        "propietario": "Zupo Maximiliano Ariel",
+        "habilitacion": "6/7/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9878556,
+          -35.5865026
+        ]
+      },
+      "properties": {
+        "nombre": "LAS RETAMAS (4)",
+        "ubicacion": "Tandil 619",
+        "telefono": "02241-15414605/ 02241-15548897",
+        "email": "appartlasretamas@gmail.com",
+        "plazas": 16,
+        "servicios": "-Estacionamiento cubierto\n - Cocina Completa\n - Horno de barro\n - Aire Acondicionado\n - Desayuno Seco\n - TV\n . Wi - Fi\n -Parejas\n - Parrilla",
+        "propietario": "Lilia Moline",
+        "habilitacion": "9/8/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.068285,
+          -35.5774693
+        ]
+      },
+      "properties": {
+        "nombre": "Lomas Altas Hills (4) Nueva",
+        "ubicacion": "De las Palmeras 510",
+        "telefono": "11 61652564/ 11 56038976",
+        "email": "lomasaltashills@gmail.com",
+        "plazas": 16,
+        "servicios": "Cabañas p/ 2 adultos y 2 menores",
+        "propietario": "Gomez Juan Carlos",
+        "habilitacion": "23/7/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0680457,
+          -35.5885105
+        ]
+      },
+      "properties": {
+        "nombre": "LOS ALERCES (4)",
+        "ubicacion": "Av. PEDRO Urruty e/ Los Algarrobos y Los Alerces. Lomas Altas",
+        "telefono": "11 27986166",
+        "email": "losalerceschascomus@gmail.com",
+        "plazas": 17,
+        "servicios": "INFO en el comentario / Piscina",
+        "propietario": "VALENTINA RICCHIUTI",
+        "habilitacion": "21/5/26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.026256,
+          -35.5659889
+        ]
+      },
+      "properties": {
+        "nombre": "LOS CARDALES (4)",
+        "ubicacion": "Pedro Barboza 726",
+        "telefono": "2241- 585784",
+        "email": "",
+        "plazas": 16,
+        "servicios": "",
+        "propietario": "Matias Javier Velazquez",
+        "habilitacion": "03/04/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9709386,
+          -35.605905
+        ]
+      },
+      "properties": {
+        "nombre": "LOS CISNES (3)",
+        "ubicacion": "de los Cisnes 14. Bº La Liberata",
+        "telefono": "011-59810615-02241565241",
+        "email": "caciquecatriel@gmail.com",
+        "plazas": 12,
+        "servicios": "Vajilla",
+        "propietario": "Sebastian Albisetti",
+        "habilitacion": "27/5/2028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.985496,
+          -35.5887144
+        ]
+      },
+      "properties": {
+        "nombre": "LOS DUENDES DE CHASCOMUS (13)",
+        "ubicacion": "Avellaneda 842",
+        "telefono": "02241-430528 / 11 -1528933503",
+        "email": "chascomus.cabanaslosduendes@gmail.com/ ag.merimat@gmail.com",
+        "plazas": 70,
+        "servicios": "Cocinas equipadas- Acepta mascotas",
+        "propietario": "MERIMAT DEL SUR S.R.L",
+        "habilitacion": "23/07/2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0632176,
+          -35.577274
+        ]
+      },
+      "properties": {
+        "nombre": "LOS LAURELES (3)",
+        "ubicacion": "Los Laureles 24. Brrio L Altas",
+        "telefono": "011- 25477138",
+        "email": "losroblesrojos.com.ar",
+        "plazas": 16,
+        "servicios": "",
+        "propietario": "Luis Marchand Pablo Rascovan",
+        "habilitacion": "8/11/2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0279173,
+          -35.5670853
+        ]
+      },
+      "properties": {
+        "nombre": "LOS PINOS (11)",
+        "ubicacion": "Cost. Urruty 608",
+        "telefono": "436525- 02241- 474377",
+        "email": "lospinos@acechascomus.com.ar",
+        "plazas": 38,
+        "servicios": "Ropa Blanca",
+        "propietario": "Heriberto Caseros",
+        "habilitacion": "10/5/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0160329,
+          -35.626225
+        ]
+      },
+      "properties": {
+        "nombre": "LOS PLUMERILLOS (4)",
+        "ubicacion": "Los Cardales 235 B°Parque Girado",
+        "telefono": "11-64237901- 11- 51438320",
+        "email": "complejolosplumerillos@gmail.com",
+        "plazas": 28,
+        "servicios": "Ropa Blanca",
+        "propietario": "Jorge Lozano Mejía",
+        "habilitacion": "30/07/2028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0703408,
+          -35.5842865
+        ]
+      },
+      "properties": {
+        "nombre": "LOS ROBLES ROJOS (5)",
+        "ubicacion": "de los Barrancos - tranquera 1 - Lomas Altas",
+        "telefono": "011- 25477138",
+        "email": "losroblesrojos@hotmail.com",
+        "plazas": 26,
+        "servicios": "Ropa Blanca",
+        "propietario": "Luis Marchand Pablo Rascovan",
+        "habilitacion": "08-11-2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.990617,
+          -35.5820789
+        ]
+      },
+      "properties": {
+        "nombre": "LOS ROSALES (4)",
+        "ubicacion": "G. Chavez 641 y Junín",
+        "telefono": "(02241)430327 // 15696837",
+        "email": "nancycotta@hotmail.es",
+        "plazas": 20,
+        "servicios": "-Ropa Blanca\n -Aceptan mascotas\n -Estacionamiento descubierto\n -Parrilla\n -Aire acondicionado\n -Wifi\n -Mesas techadas y al aire libre \n -Piscina",
+        "propietario": "Nancy Cotta",
+        "habilitacion": "20/03/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0007747,
+          -35.5809315
+        ]
+      },
+      "properties": {
+        "nombre": "LOS TRES DUENDES (5)",
+        "ubicacion": "Ecuador 275",
+        "telefono": "02241-494525",
+        "email": "infolos3duendes@hotmail.com",
+        "plazas": 14,
+        "servicios": "Desayuno Seco- Aire acondicionado-calefacción- Pileta- Juegos para niños-",
+        "propietario": "GLARDON MARIA PATRICIA",
+        "habilitacion": "14/09/2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9745693,
+          -35.6037259
+        ]
+      },
+      "properties": {
+        "nombre": "MANECATHI (4)",
+        "ubicacion": "de los Patos Nº 5 BªLa Liberata",
+        "telefono": "011-1559775301",
+        "email": "info@cabaniasmanecathi.com/ cabanaslavina@hotmail.com",
+        "plazas": 12,
+        "servicios": "Estacionamiento",
+        "propietario": "Marcela Estrañy",
+        "habilitacion": "4/2/2029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9825429,
+          -35.5880322
+        ]
+      },
+      "properties": {
+        "nombre": "MEDITERRANEO (SPA) (10)",
+        "ubicacion": "Avellaneda 985 esq. Las Flores",
+        "telefono": "426532/ 2216471792",
+        "email": "mediterraneospa01@gmail.com",
+        "plazas": 48,
+        "servicios": "Ropa Blanca",
+        "propietario": "Viviana Peña - Manuel Isasi",
+        "habilitacion": "7/4/2028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9924898,
+          -35.5801488
+        ]
+      },
+      "properties": {
+        "nombre": "MIDELEM (3)",
+        "ubicacion": "Azul 269",
+        "telefono": "011-1563361488",
+        "email": "gracielaseif@hotmail.com",
+        "plazas": 14,
+        "servicios": "Pileta",
+        "propietario": "Gaciela Santos",
+        "habilitacion": "23/2/2029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9908548,
+          -35.5869694
+        ]
+      },
+      "properties": {
+        "nombre": "PAPA CURCIO (9)",
+        "ubicacion": "Mercedes 633",
+        "telefono": "2241-699888- 2241688208",
+        "email": "papacurcio@yahoo.com.ar",
+        "plazas": 35,
+        "servicios": "Ropa Blanca",
+        "propietario": "Felisa R. Curcio. Administrador ( Chioatto Ariel)+",
+        "habilitacion": "20/5/2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0113629,
+          -35.58082
+        ]
+      },
+      "properties": {
+        "nombre": "PORTAL DEL SUR (7)",
+        "ubicacion": "Cost. España 246 y Colon",
+        "telefono": "2241-425228- 2241 50-6759",
+        "email": "papacurcio@yahoo.com.ar",
+        "plazas": 27,
+        "servicios": "Ropa Blanca",
+        "propietario": "Hector Dauna",
+        "habilitacion": "8/5/2027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9915988,
+          -35.5880436
+        ]
+      },
+      "properties": {
+        "nombre": "PUNTA COLORES (4) sòlo parejas",
+        "ubicacion": "Cost. Gaston 843",
+        "telefono": "Contactos: 2241425228 llamado",
+        "email": "info@puntacolores.com.ar",
+        "plazas": 0,
+        "servicios": "Ropa Blanca",
+        "propietario": "Silvina Lupini",
+        "habilitacion": "10/9/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9911375,
+          -35.5865995
+        ]
+      },
+      "properties": {
+        "nombre": "RUCA LEMU (11)",
+        "ubicacion": "Azul 651",
+        "telefono": "(02241) 425077 (02241)15539591",
+        "email": "rucalemuchascomus@gmail.com",
+        "plazas": 22,
+        "servicios": "Ropa Blanca",
+        "propietario": "Adriana Bermudes",
+        "habilitacion": "11/6/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0145214,
+          -35.6280888
+        ]
+      },
+      "properties": {
+        "nombre": "RANCHO RELAXO (4)",
+        "ubicacion": "La Alborada 45. B° Parque Girado",
+        "telefono": "Instagram: portaldelsur.c",
+        "email": "hetitorderacing@gmail.com",
+        "plazas": 12,
+        "servicios": "Ropa Blanca",
+        "propietario": "hector manuel lopez",
+        "habilitacion": "15/12/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0262599,
+          -35.5679185
+        ]
+      },
+      "properties": {
+        "nombre": "TERRA LUCANA (4)",
+        "ubicacion": "S. Roca 629",
+        "telefono": "2241- 425925/1163712046",
+        "email": "ernestoclaps@yahoo.com.ar",
+        "plazas": 16,
+        "servicios": "Ropa Blanca",
+        "propietario": "Ernesto Claps",
+        "habilitacion": "19/12/2028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0136464,
+          -35.5776723
+        ]
+      },
+      "properties": {
+        "nombre": "TIERRA MÍA (4)",
+        "ubicacion": "De los Tilos 286 (Lomas Altas)",
+        "telefono": "11-53016252",
+        "email": "julietaromano1@yahoo.com.ar",
+        "plazas": 20,
+        "servicios": "Ropa Blanca",
+        "propietario": "Capuccio Daniel",
+        "habilitacion": "17/4/2027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0630266,
+          -35.5776977
+        ]
+      },
+      "properties": {
+        "nombre": "TIERRA VIVA (4) NUEVA",
+        "ubicacion": "Laguna Adela 617 (Lomas Altas)",
+        "telefono": "2241- 616158",
+        "email": "",
+        "plazas": 24,
+        "servicios": "Acepta mascotas",
+        "propietario": "Agustín Ivo Rodriguez",
+        "habilitacion": "En tramite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0271177,
+          -35.5672931
+        ]
+      },
+      "properties": {
+        "nombre": "TERRAZAS (9)",
+        "ubicacion": "Cost. Urruty 585",
+        "telefono": "11- 61290423",
+        "email": "contacto@terrazaschascomus.com.ar",
+        "plazas": 30,
+        "servicios": "Ropa Blanca",
+        "propietario": "VELAZQUEZ MATIAS JAVIER",
+        "habilitacion": "3/4/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0262599,
+          -35.5679185
+        ]
+      },
+      "properties": {
+        "nombre": "TERRAZAS ANEXO (5)",
+        "ubicacion": "Roca 585",
+        "telefono": "11- 61290423",
+        "email": "contacto@terrazaschascomus.com.ar",
+        "plazas": 15,
+        "servicios": "Ropa Blanca",
+        "propietario": "Cristina Torres Perez Rodriguez Nelida (concesionaria)",
+        "habilitacion": "3/4/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9911436,
+          -35.5819387
+        ]
+      },
+      "properties": {
+        "nombre": "TORRE AZUL (SPA) (4)",
+        "ubicacion": "Mercedes y Tres Arroyos",
+        "telefono": "422984",
+        "email": "torre_azul@infovia.com.ar",
+        "plazas": 20,
+        "servicios": "Ropa Blanca",
+        "propietario": "GARCIA ELSA LIDIA",
+        "habilitacion": "23/04/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0703408,
+          -35.5842865
+        ]
+      },
+      "properties": {
+        "nombre": "TRANQUERA 8 (4)",
+        "ubicacion": "Laguna Vitel 46 - Lomas Altas",
+        "telefono": "011-1554164080 011-1552200002",
+        "email": "tranquera8@gmail.com",
+        "plazas": 16,
+        "servicios": "Parrilla",
+        "propietario": "Barreiro Garcete Ma. Celia",
+        "habilitacion": "23/4/2028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9881268,
+          -35.5799513
+        ]
+      },
+      "properties": {
+        "nombre": "YATALE II (6)",
+        "ubicacion": "Bahía Blanca 256",
+        "telefono": "02241-422194- 682307 /",
+        "email": "yatale@hotmail.com",
+        "plazas": 20,
+        "servicios": "Acepta mascotas\n Estacionamiento cubierto\n Acceso para discapacitados\n Cochera",
+        "propietario": "Urrulabeytia Eduardo",
+        "habilitacion": "23/4/2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0166031,
+          -35.5683835
+        ]
+      },
+      "properties": {
+        "nombre": "YATALE I (5)",
+        "ubicacion": "Cost. Urruty y Escribano",
+        "telefono": "424194",
+        "email": "yatale@hotmail.com",
+        "plazas": 24,
+        "servicios": "Ropa Blanca",
+        "propietario": "Urrulabeytia Eduardo",
+        "habilitacion": "23/4/2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9909244,
+          -35.5821315
+        ]
+      },
+      "properties": {
+        "nombre": "AIRES DEL SUR (2) Cerró",
+        "ubicacion": "G. Chavez 607",
+        "telefono": "15498022 - 15458952",
+        "email": "airesdelsurch@gmail.com.ar",
+        "plazas": 0,
+        "servicios": "Vajilla",
+        "propietario": "casas con servicios",
+        "habilitacion": "Pedro Quer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0700138,
+          -35.5823075
+        ]
+      },
+      "properties": {
+        "nombre": "AIRES DE LOMAS ALTAS (2)",
+        "ubicacion": "de los Nisperos 234 - Bº Lomas Altas",
+        "telefono": "011- 35846986",
+        "email": "airesdelomasaltas@hotmail.com",
+        "plazas": 10,
+        "servicios": "Vajilla",
+        "propietario": "",
+        "habilitacion": "Irazoqui S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9659785,
+          -35.575736
+        ]
+      },
+      "properties": {
+        "nombre": "CACIQUE CATRIEL (2)",
+        "ubicacion": "Conrado Villgas 1789 - Bº El Porteño",
+        "telefono": "11-59810615 - 2241-465241",
+        "email": "caciquecatriel@gmail.com",
+        "plazas": 10,
+        "servicios": "Vajilla",
+        "propietario": "",
+        "habilitacion": "Sebastian "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0670656,
+          -35.5871097
+        ]
+      },
+      "properties": {
+        "nombre": "CAB MORA (2)",
+        "ubicacion": "Laguna del Burro 34 Bº Lomas Altas Tranquera 6",
+        "telefono": "11- 44281069",
+        "email": "moralagunachascomus@gmail.com",
+        "plazas": 6,
+        "servicios": "Ropa Blanca",
+        "propietario": "",
+        "habilitacion": "Javier Gil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0671018,
+          -35.5856213
+        ]
+      },
+      "properties": {
+        "nombre": "CABAÑAS LO DE HUGO (1)",
+        "ubicacion": "Arrayanes 75 ( Lomas Altas)",
+        "telefono": "11-58657979",
+        "email": "hugohpecora@gmail.com",
+        "plazas": 6,
+        "servicios": "Internet- Pileta- Direct tv- aire acondicionado, salamandra",
+        "propietario": "Casa de alquiler turístico",
+        "habilitacion": "Pecora Hug"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0157194,
+          -35.5795389
+        ]
+      },
+      "properties": {
+        "nombre": "CASA FLORA (1)",
+        "ubicacion": "San Martín 393",
+        "telefono": "11-36972613",
+        "email": "florbianchy@hotmail.com",
+        "plazas": 4,
+        "servicios": "Piscina",
+        "propietario": "Casa de alquiler turístico",
+        "habilitacion": "Florencia "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0276978,
+          -35.5588593
+        ]
+      },
+      "properties": {
+        "nombre": "CASA KAUFMAN (2)",
+        "ubicacion": "Mc Innes 89",
+        "telefono": "223-3403107",
+        "email": "",
+        "plazas": 4,
+        "servicios": "Piscina, jacuzi, parrilla,",
+        "propietario": "Casa de alquiler turístico",
+        "habilitacion": "Kaufman Ro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0158378,
+          -35.579655
+        ]
+      },
+      "properties": {
+        "nombre": "CASA LIMON (1)",
+        "ubicacion": "Santa Fe 127",
+        "telefono": "2241466596",
+        "email": "casalimonchascomus@gmail.com",
+        "plazas": 4,
+        "servicios": "No tienen piscina",
+        "propietario": "Casa de alquiler turístico",
+        "habilitacion": "María Paul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9838343,
+          -35.588788
+        ]
+      },
+      "properties": {
+        "nombre": "CASA MATILDA (1)",
+        "ubicacion": "Miramar 732",
+        "telefono": "1132018125",
+        "email": "rflumian@hotmail.com",
+        "plazas": 6,
+        "servicios": "-Aceptan una mascota\n - Piscina\n -Parrilla\n -Aire acondicionado y calefacción\n -Wi-fi y DirecTV",
+        "propietario": "Casa quinta",
+        "habilitacion": "Roberto fl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9650439,
+          -35.5762835
+        ]
+      },
+      "properties": {
+        "nombre": "CHACRA LA CH (1) NO ALQUILA MÄS",
+        "ubicacion": "Cacique Catriel 234. B° El Porteño",
+        "telefono": "11- 35202069",
+        "email": "pgmazzoli@gmail.com",
+        "plazas": 0,
+        "servicios": "Vajilla, alquiler de caballos, piscina",
+        "propietario": "Casa de alquiler turístico",
+        "habilitacion": "Mazzoli Gr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0671776,
+          -35.5842923
+        ]
+      },
+      "properties": {
+        "nombre": "CHICHARO (2)",
+        "ubicacion": "de las Casuarinas 142 Bº Lomas Altas",
+        "telefono": "011 5701-9672",
+        "email": "info@chicharoweb.com.ar",
+        "plazas": 8,
+        "servicios": "Ropa Blanca",
+        "propietario": "",
+        "habilitacion": "Silvana Ru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9930018,
+          -35.5864569
+        ]
+      },
+      "properties": {
+        "nombre": "DULCINEA (3) p/parejas",
+        "ubicacion": "Escobar 527",
+        "telefono": "2241-51 10 49",
+        "email": "nancy.conde1@hotmail.com",
+        "plazas": 6,
+        "servicios": "- TV, wifi, sàbanas. \n - No dan toallas ni toallones.\n - No aceptan mascotas.\n - Estacionamiento descubierto.\n - Desayuno con productos locales.",
+        "propietario": "Casa de alquiler turístico",
+        "habilitacion": "Nancy Cond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9917925,
+          -35.5810734
+        ]
+      },
+      "properties": {
+        "nombre": "EL REMANSO (2)",
+        "ubicacion": "Tres Arroyos 326",
+        "telefono": "2241 69 91 91",
+        "email": "elremansochascomus@gmail.com",
+        "plazas": 8,
+        "servicios": "-Estacionamiento descubierto\n -Parrilla\n -Aire acondicionado\n -Wi - Fi\n -Piscina\n -NO admite mascotas\n - Desayuno con productos locales",
+        "propietario": "Vivienda de alquiler temporario",
+        "habilitacion": "Mariel Den"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0154751,
+          -35.5765815
+        ]
+      },
+      "properties": {
+        "nombre": "EMILY HOUSE (1) NUEVA",
+        "ubicacion": "Lincoln 60 e/ Arenales y Soler",
+        "telefono": "2241- 460767",
+        "email": "chascoemihostel@gmail.com",
+        "plazas": 8,
+        "servicios": "",
+        "propietario": "Casa de alquiler turístico",
+        "habilitacion": "María Emil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9923445,
+          -35.5497324
+        ]
+      },
+      "properties": {
+        "nombre": "JUMALUAN (3)",
+        "ubicacion": "Juana de Azurduy 925. B° La Esmeralda",
+        "telefono": "221- 6282480- 221- 558-2080",
+        "email": "jumaluan.chascomus@gmail.com",
+        "plazas": 11,
+        "servicios": "-Estacionamiento descubierto\n -Parrilla\n -Aire acondicionado\n -Wi-fi\n -Parque y juegos para niños\n -Piscina\n -Desayuno con productos locales y opción sin tacc\n -Aceptan mascotas",
+        "propietario": "Scorians Federico",
+        "habilitacion": "Scorians F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0024405,
+          -35.5733678
+        ]
+      },
+      "properties": {
+        "nombre": "LA CASA AZUL (1)",
+        "ubicacion": "Solis 254 e/ Rico y Grito de Dolores",
+        "telefono": "11-56578614",
+        "email": "virginiaabelenda@gmail.com",
+        "plazas": 4,
+        "servicios": "Tv- Wi-fi",
+        "propietario": "Casa de alquiler turístico",
+        "habilitacion": "Virginia A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0050649,
+          -35.5803064
+        ]
+      },
+      "properties": {
+        "nombre": "LAGUNA PAMPA (2)",
+        "ubicacion": "Artigas 183",
+        "telefono": "2241-496865",
+        "email": "",
+        "plazas": 5,
+        "servicios": "",
+        "propietario": "",
+        "habilitacion": "Constanza "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0714246,
+          -35.5861338
+        ]
+      },
+      "properties": {
+        "nombre": "LA MORADA DEL FENIX (2)",
+        "ubicacion": "De los Talas 325. Brrio Lomas Altas",
+        "telefono": "11-50423088/",
+        "email": "lamoradadelfenix@gmail.com",
+        "plazas": 12,
+        "servicios": "Piscina \n Parrilla\n Estacionamiento descubierto\n Aire acondicionado\n Wi-Fi",
+        "propietario": "Casa de alquiler turístico",
+        "habilitacion": "Bassani Na"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0158376,
+          -35.5795781
+        ]
+      },
+      "properties": {
+        "nombre": "LA VIZCAINA CASA DE ALQ. (1)",
+        "ubicacion": "San Martin 397",
+        "telefono": "2241-409632",
+        "email": "lavizcainachas@gmail.com",
+        "plazas": 5,
+        "servicios": "Parrilla. a/a. Wifi. Ropa de cama.",
+        "propietario": "Casa de alquiler turístico",
+        "habilitacion": "Garcia Lau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0025643,
+          -35.5821018
+        ]
+      },
+      "properties": {
+        "nombre": "LAS TOTORAS (2)",
+        "ubicacion": "Marquez 272",
+        "telefono": "02241 15 695237",
+        "email": "lastotoraschascomus@gmail.com",
+        "plazas": 16,
+        "servicios": "Cocina completa",
+        "propietario": "",
+        "habilitacion": "MENDEZ ANA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0676388,
+          -35.5832252
+        ]
+      },
+      "properties": {
+        "nombre": "LOS ARRAYANES (3)",
+        "ubicacion": "de Los Arrayanes 128 Lomas Altas",
+        "telefono": "011 - 1541802166",
+        "email": "cabaniaslosarrayanes@gmail.com",
+        "plazas": 12,
+        "servicios": "Vajilla",
+        "propietario": "",
+        "habilitacion": "MIGALE DOM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0708723,
+          -35.5862241
+        ]
+      },
+      "properties": {
+        "nombre": "LOS CUISES (2)",
+        "ubicacion": "Los Olivos 151. B° Lomas Altas",
+        "telefono": "11-56065499",
+        "email": "leobrecha@gmail.com",
+        "plazas": 8,
+        "servicios": "Pileta",
+        "propietario": "",
+        "habilitacion": "Brecha Leo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0679105,
+          -35.5812647
+        ]
+      },
+      "properties": {
+        "nombre": "LOS FRESNOS (2)",
+        "ubicacion": "De las Cinacinas 175. B° Lomas Altas",
+        "telefono": "2241-569482 (Privado 455668)",
+        "email": "natypouso@hotmail.com",
+        "plazas": 8,
+        "servicios": "Pileta",
+        "propietario": "",
+        "habilitacion": "Romero Leo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9926295,
+          -35.5802993
+        ]
+      },
+      "properties": {
+        "nombre": "LOS TRONCOS (2)",
+        "ubicacion": "Azul 273",
+        "telefono": "425406/(02241)15689374",
+        "email": "Quedó en enviarlo vía whatssap",
+        "plazas": 12,
+        "servicios": "Ropa Blanca",
+        "propietario": "",
+        "habilitacion": "Mari Maggi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0224721,
+          -35.5580159
+        ]
+      },
+      "properties": {
+        "nombre": "MIRA PAMPA 1 casa, 3 hab.",
+        "ubicacion": "Las Acacias 396",
+        "telefono": "221- 3645866",
+        "email": "",
+        "plazas": 8,
+        "servicios": "3 hab. 2 baños, piscina, garage techado",
+        "propietario": "Casa de alquiler turístico",
+        "habilitacion": "SANCHEZ AC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0602814,
+          -35.5768304
+        ]
+      },
+      "properties": {
+        "nombre": "OLLAGUA(2)",
+        "ubicacion": "De las Magnolias 538. Lomas Altas",
+        "telefono": "11-67447377",
+        "email": "ollaguachascomus@gmail.com",
+        "plazas": 6,
+        "servicios": "TV con Chromecast, deck y parrila privadas, pileta compartida.",
+        "propietario": "",
+        "habilitacion": "Valido Rub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0677672,
+          -35.5831597
+        ]
+      },
+      "properties": {
+        "nombre": "OSO DORMILON (2)",
+        "ubicacion": "De los Arrayanes 123 Bº Lomas Altas",
+        "telefono": "1139160035",
+        "email": "cabaniasosodormilon@gmail.com/ marysol.palacio@gmail.com",
+        "plazas": 10,
+        "servicios": "Servicio de Mucama",
+        "propietario": "",
+        "habilitacion": "Minervini "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0055857,
+          -35.5815912
+        ]
+      },
+      "properties": {
+        "nombre": "PUNTO Y APPART (2)",
+        "ubicacion": "Ecuador 77",
+        "telefono": "2241587502",
+        "email": "Dalmirooopastore21@gmail.com",
+        "plazas": 8,
+        "servicios": "Ropa Blanca",
+        "propietario": "",
+        "habilitacion": "Pastore Da"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.954923,
+          -35.5703774
+        ]
+      },
+      "properties": {
+        "nombre": "QUINTA EL CIPRÉS (2) + 1 casa p/6",
+        "ubicacion": "Campaña del Desierto 2669. B° El Porteño",
+        "telefono": "2241- 681183",
+        "email": "raquel-solares62@hotmail.com",
+        "plazas": 14,
+        "servicios": "desayuno seco",
+        "propietario": "",
+        "habilitacion": "Lorenzetti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0948296,
+          -35.4499295
+        ]
+      },
+      "properties": {
+        "nombre": "REFUGIO EL VERGEL (2)",
+        "ubicacion": "Camino a Gandara KM 2.5 N°2500",
+        "telefono": "11-59119014",
+        "email": "Refugioelvergel.gandara@gmail.com",
+        "plazas": 6,
+        "servicios": "",
+        "propietario": "Cabañas sustentables",
+        "habilitacion": "Cappiello "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0695109,
+          -35.5847999
+        ]
+      },
+      "properties": {
+        "nombre": "RINCON DE LA LAGUNA (2)",
+        "ubicacion": "de los Aromos 44 Bº Lomas Altas",
+        "telefono": "011-1564479019",
+        "email": "gisellenahu@hotmail.com",
+        "plazas": 8,
+        "servicios": "Vajilla",
+        "propietario": "",
+        "habilitacion": "Nicolas Na"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0173973,
+          -35.6269081
+        ]
+      },
+      "properties": {
+        "nombre": "SPA RANCH (2)",
+        "ubicacion": "La Gueya 125. B° Parque Girado.",
+        "telefono": "2241-571437- 11-54201096",
+        "email": "Marianaandersom677@gmail.com",
+        "plazas": 10,
+        "servicios": "piscina - sauna - tina - Todo al aire libre- wifi/ parrilla/ rampas",
+        "propietario": "Hospedaje temporal",
+        "habilitacion": "Anderson M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0670702,
+          -35.5871589
+        ]
+      },
+      "properties": {
+        "nombre": "TIERRA DE AROMOS (2)",
+        "ubicacion": "Laguna del Burro 35 Bº Lomas Altas",
+        "telefono": "011-1541712763",
+        "email": "tierradearomos.chascomus@gmail.com",
+        "plazas": 10,
+        "servicios": "Vajilla",
+        "propietario": "Casa de alquiler",
+        "habilitacion": "Marcelo Ca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0153694,
+          -35.5824477
+        ]
+      },
+      "properties": {
+        "nombre": "CATALPA (UTEDYC) (36) Nuevo",
+        "ubicacion": "Av. Costanera España y Sta. Fe",
+        "telefono": "1132448016",
+        "email": "catalpa@utedyc.org.ar",
+        "plazas": 72,
+        "servicios": "pileta, solarium, SUM, sala de juegos, restaurant y bar terraza",
+        "propietario": "Hotel",
+        "habilitacion": "UTEDYC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0107594,
+          -35.5769043
+        ]
+      },
+      "properties": {
+        "nombre": "CHASCOMUS (15)",
+        "ubicacion": "Av. Lastra 367",
+        "telefono": "422968/ 2241- 571574",
+        "email": "hotelchascomus@gmail.com",
+        "plazas": 40,
+        "servicios": "Servicio Mucama- Area médica protegida.",
+        "propietario": "Hotel ***",
+        "habilitacion": "MONTES MAR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0093488,
+          -35.5790405
+        ]
+      },
+      "properties": {
+        "nombre": "EMILY HOSTEL (3)",
+        "ubicacion": "Lavalle 34",
+        "telefono": "2241-460767",
+        "email": "chascoemihoste@gmail.com",
+        "plazas": 12,
+        "servicios": "Calefacción- cocina equipada- wifi- tv en sala",
+        "propietario": "Hostel",
+        "habilitacion": "María Emil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0136464,
+          -35.5776723
+        ]
+      },
+      "properties": {
+        "nombre": "HOSPEDAJE COSTANERA (9)",
+        "ubicacion": "Cost. España y Castelli (O)",
+        "telefono": "2241- 568417- 2241517880 (Guillermo)",
+        "email": "No tienen mail",
+        "plazas": 28,
+        "servicios": "Calefaccion",
+        "propietario": "Hotel*",
+        "habilitacion": "Guillermo "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0214254,
+          -35.573852
+        ]
+      },
+      "properties": {
+        "nombre": "HOSPEDAJE LO DE MIRTA (Brenna) (15)",
+        "ubicacion": "Bolivar 577",
+        "telefono": "423744",
+        "email": "No tienen mail en el complejo",
+        "plazas": 40,
+        "servicios": "",
+        "propietario": "Residencial A",
+        "habilitacion": "Mirta Mate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.014979,
+          -35.5720659
+        ]
+      },
+      "properties": {
+        "nombre": "HOSTEL Chascomús (6)",
+        "ubicacion": "Mazzini 225",
+        "telefono": "02241-15569698",
+        "email": "elhosteldechascomus@gmail.com",
+        "plazas": 32,
+        "servicios": "Internet",
+        "propietario": "Hostel",
+        "habilitacion": "Cesar piñe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0117279,
+          -35.5802099
+        ]
+      },
+      "properties": {
+        "nombre": "HOSTEL LA JOAQUINA (7)",
+        "ubicacion": "J. Newbery 175",
+        "telefono": "2241 55-9011",
+        "email": "lajoaquinahostel@gmail.com",
+        "plazas": 18,
+        "servicios": "Desayuno- Aire acondicionado- 1 habitación con frigobar, Internet- Pileta",
+        "propietario": "BED & BREAKFAST",
+        "habilitacion": "Analía Jau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9809268,
+          -35.5880633
+        ]
+      },
+      "properties": {
+        "nombre": "HOSTERIA CASA DE CAMPO (8)",
+        "ubicacion": "Avellaneda 1000 esq. Balcarce",
+        "telefono": "430637 / 011-1551852471",
+        "email": "hosteriacasadecampo@live.com.ar",
+        "plazas": 22,
+        "servicios": "Ropa Blanca",
+        "propietario": "Hosteria **",
+        "habilitacion": "Alejandro "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0137915,
+          -35.5760986
+        ]
+      },
+      "properties": {
+        "nombre": "HOTEL COLON (24)",
+        "ubicacion": "Libres del Sur 70",
+        "telefono": "422977",
+        "email": "chascomushotelcolon@gmail.com",
+        "plazas": 50,
+        "servicios": "Servicio Mucama",
+        "propietario": "Hotel ***",
+        "habilitacion": "Jose Luis "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0164311,
+          -35.5675134
+        ]
+      },
+      "properties": {
+        "nombre": "HOTEL EL MIRADOR (23)",
+        "ubicacion": "Belgrano 485",
+        "telefono": "2241 15682935",
+        "email": "info@hotelelmiradorchas.com.ar",
+        "plazas": 50,
+        "servicios": "Servicio Mucama",
+        "propietario": "",
+        "habilitacion": "Martín Apa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9870507,
+          -35.5896277
+        ]
+      },
+      "properties": {
+        "nombre": "HOTEL HOWARD JOHNSON (118)",
+        "ubicacion": "Loberia 738",
+        "telefono": "02241 433243 (reservas de habitaciones) // 2241 67 63 60 (restaurante)",
+        "email": "reservas@hjchascomus.com.ar",
+        "plazas": 364,
+        "servicios": "pileta",
+        "propietario": "Hotel 4 estrellas",
+        "habilitacion": "Fideicomis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0184753,
+          -35.5702227
+        ]
+      },
+      "properties": {
+        "nombre": "HOTEL LAGUNA (23)",
+        "ubicacion": "Libres de Sur N°402 y Maipu",
+        "telefono": "2241- 426113 // 2241 - 500640",
+        "email": "reservas@lagunahotel.com.ar",
+        "plazas": 54,
+        "servicios": "Servicio Mucama",
+        "propietario": "Hotel **",
+        "habilitacion": "María del "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0129448,
+          -35.5785486
+        ]
+      },
+      "properties": {
+        "nombre": "LA BOTICA DE 1852 (3)",
+        "ubicacion": "Crámer 223",
+        "telefono": "11-37657518",
+        "email": "labotica1852@gmail.com",
+        "plazas": 10,
+        "servicios": "Wi- fi. aire acondiconado",
+        "propietario": "Hotel",
+        "habilitacion": "Matias Mig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9851064,
+          -35.5908023
+        ]
+      },
+      "properties": {
+        "nombre": "LA POSADA DEL TORDILLO (5)",
+        "ubicacion": "Tordillo 810 esq. B. Blanca",
+        "telefono": "2241 568007",
+        "email": "sandraisabella2010@hotmail.com",
+        "plazas": 12,
+        "servicios": "Pileta",
+        "propietario": "",
+        "habilitacion": "Sandra y L"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0690418,
+          -35.5897979
+        ]
+      },
+      "properties": {
+        "nombre": "LAS LOMAS Hotel Boutique & Spa (10)",
+        "ubicacion": "De los Alamos 22 - Lomas Altas",
+        "telefono": "11-58261339",
+        "email": "laslomassuitapart@gmail.com",
+        "plazas": 30,
+        "servicios": "piscina clim. y spa",
+        "propietario": "Hotel ***",
+        "habilitacion": "RUBIOLA PA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0127616,
+          -35.5796127
+        ]
+      },
+      "properties": {
+        "nombre": "CASA LAUREL HOTEL (13)",
+        "ubicacion": "Lavalle 227",
+        "telefono": "2241- 683696- 2241684100",
+        "email": "info@casalaurel.com.ar",
+        "plazas": 26,
+        "servicios": "Pileta",
+        "propietario": "",
+        "habilitacion": "Laurel Hot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.014976,
+          -35.5751133
+        ]
+      },
+      "properties": {
+        "nombre": "RINGO BAR HOTEL (9)",
+        "ubicacion": "Belgrano 139",
+        "telefono": "11-54521357",
+        "email": "gerencia@subaltur.com",
+        "plazas": 36,
+        "servicios": "Ropa Blanca",
+        "propietario": "Bar- hotel",
+        "habilitacion": "Gerardo Sc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0130553,
+          -35.5715078
+        ]
+      },
+      "properties": {
+        "nombre": "ROBLE BLANCO (11)",
+        "ubicacion": "Mazzini 130",
+        "telefono": "2241- 683696- 2241684100",
+        "email": "consultas@robleblanco.com.ar",
+        "plazas": 22,
+        "servicios": "Servicio Mucama",
+        "propietario": "Hotel *** Superior",
+        "habilitacion": "Carlos Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9784778,
+          -35.5792002
+        ]
+      },
+      "properties": {
+        "nombre": "MOTEL LA LIBERATA ( 10)",
+        "ubicacion": "Autovia 2 Km",
+        "telefono": "2241- 472825",
+        "email": "181patu@gmail.com",
+        "plazas": 20,
+        "servicios": "Wi-fi, aire acondicionado, tv, venta de bebidas, desayunos, hidromasaje en 2 hab",
+        "propietario": "Motel",
+        "habilitacion": "BRALGO S.A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0133103,
+          -35.5825838
+        ]
+      },
+      "properties": {
+        "nombre": "VILLA DE LA COSTA (4)",
+        "ubicacion": "Dolores 285",
+        "telefono": "2241424745 / 2241678918",
+        "email": "suvilla1@hotmail.com",
+        "plazas": 12,
+        "servicios": "-Solo adultos\n -Estacionamiento descubierto\n -Aire acondicionado\n -Desayuno con productos locales",
+        "propietario": "B & B",
+        "habilitacion": "Susana Vil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0136464,
+          -35.5776723
+        ]
+      },
+      "properties": {
+        "nombre": "LA ALAMEDA (11 hab, 3 glampings)",
+        "ubicacion": "Cmno. De Circunvalacion km 12,6",
+        "telefono": "1157133534 // 2241 50-8536 Facu Canepa",
+        "email": "reservas@estancialaalameda.com",
+        "plazas": 34,
+        "servicios": "Aire Acondicionado\n Reserva Natural",
+        "propietario": "Alojamiento turístico rural",
+        "habilitacion": "ESTANCIA L"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0577699,
+          -35.5711869
+        ]
+      },
+      "properties": {
+        "nombre": "LA MARGARITA (4)",
+        "ubicacion": "Av. Pedro Urruty, km 14.5,",
+        "telefono": "54 9 2241 60-3844",
+        "email": "info@estancialamargarita.com.ar",
+        "plazas": 16,
+        "servicios": "Hogar a leña/ventiladores",
+        "propietario": "",
+        "habilitacion": "Carlos Gir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9784778,
+          -35.5792002
+        ]
+      },
+      "properties": {
+        "nombre": "PEDRO CHICO (5)",
+        "ubicacion": "Camino a Libres s/n. 4km Ruta2. Domicilio legal Mendiola 90 dpto 2.",
+        "telefono": "11- 54097631/ 2241547846",
+        "email": "moninobile57@gmail.com",
+        "plazas": 21,
+        "servicios": "Restaurante, Piscina, Solarium, Cancha de volley, futbol, tenis, driving de golf, Polo.",
+        "propietario": "Hotel Rural",
+        "habilitacion": "Monica Nob"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0703408,
+          -35.5842865
+        ]
+      },
+      "properties": {
+        "nombre": "Asociación Argentina de Pesca",
+        "ubicacion": "Av. Pedro Urruty, Lomas Altas",
+        "telefono": "11-43114625",
+        "email": "8 habitaciones",
+        "plazas": 32,
+        "servicios": "",
+        "propietario": "",
+        "habilitacion": "Asociación"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0136464,
+          -35.5776723
+        ]
+      },
+      "properties": {
+        "nombre": "Laguna Camp",
+        "ubicacion": "Camino de circunvalación Km 8",
+        "telefono": "2241-515777 (Mariano)",
+        "email": "10 CABAÑAS",
+        "plazas": 60,
+        "servicios": "",
+        "propietario": "",
+        "habilitacion": "Mariano Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.031166,
+          -35.5647494
+        ]
+      },
+      "properties": {
+        "nombre": "CAMPING LA PUERTA",
+        "ubicacion": "Av. Costanera Urruty y Plou",
+        "telefono": "02241 42 55 22",
+        "email": "12 DORMIS CON BAÑO PRIVADO (ttl 46 camas), 8 REFUGIOS SIN BAÑOS (ttl 48 camas).",
+        "plazas": 94,
+        "servicios": "Camping 2 estrellas",
+        "propietario": "",
+        "habilitacion": "Lamponi An"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0136464,
+          -35.5776723
+        ]
+      },
+      "properties": {
+        "nombre": "CIRCULO DE SUBOFICIALES DE PFA",
+        "ubicacion": "sólo para socios",
+        "telefono": "02241 425116",
+        "email": "13 Habitaciones",
+        "plazas": 40,
+        "servicios": "",
+        "propietario": "",
+        "habilitacion": "Suboficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0421492,
+          -35.5357541
+        ]
+      },
+      "properties": {
+        "nombre": "Club Laguna Vitel",
+        "ubicacion": "Ruta 20 km 87.5",
+        "telefono": "011-23323289",
+        "email": "20 Domos, 5 cabañas, 3 glamping",
+        "plazas": 146,
+        "servicios": "",
+        "propietario": "",
+        "habilitacion": "Mario Camp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9882274,
+          -35.6068405
+        ]
+      },
+      "properties": {
+        "nombre": "GYC Laguna Resort",
+        "ubicacion": "Camino Circunvalación km7.7",
+        "telefono": "2241- 441560",
+        "email": "Camping- proveduria. (3 monoambientes p/2 personas).",
+        "plazas": 6,
+        "servicios": "cama matrimonial, ropa de cama, cocina equipada, baño privada con blancos, aire frio/calor, estacionamiento.",
+        "propietario": "GYC CONSTRUCCIONES SA",
+        "habilitacion": "Rodolfo G."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0136464,
+          -35.5776723
+        ]
+      },
+      "properties": {
+        "nombre": "LA CASONA",
+        "ubicacion": "Camino de circunvalación km 24",
+        "telefono": "11 1554139353 \n  /1531491723 /1558035988",
+        "email": "10 DORMIS",
+        "plazas": 38,
+        "servicios": "",
+        "propietario": "",
+        "habilitacion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9784778,
+          -35.5792002
+        ]
+      },
+      "properties": {
+        "nombre": "EL TALAR DEL BURRO (PESQUERO)",
+        "ubicacion": "Autovía 2 km 135",
+        "telefono": "11 1549976805",
+        "email": "7 DORMIS",
+        "plazas": 24,
+        "servicios": "",
+        "propietario": "",
+        "habilitacion": "Time of cl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9784778,
+          -35.5792002
+        ]
+      },
+      "properties": {
+        "nombre": "PESCA Y CAMPING EL BURRO",
+        "ubicacion": "Autovía 2 km 135",
+        "telefono": "54 9 11 6937-9315 (Karina Gervasoni) //11- 24518904",
+        "email": "7 DORMIS CON BAÑO PRIVADO",
+        "plazas": 24,
+        "servicios": "",
+        "propietario": "",
+        "habilitacion": "Karina Ger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9953029,
+          -35.5861109
+        ]
+      },
+      "properties": {
+        "nombre": "PUERTO AVENTURA (RECREACIÓN)",
+        "ubicacion": "Av. Costanera Pedro Gastón y Ayacucho",
+        "telefono": "02241-409396",
+        "email": "DORMIS 7x12, 2x20 (chicos)",
+        "plazas": 124,
+        "servicios": "",
+        "propietario": "RECREACION Y TURISMO S.A.",
+        "habilitacion": "Maria Cavi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0136464,
+          -35.5776723
+        ]
+      },
+      "properties": {
+        "nombre": "KAPAWA S.A",
+        "ubicacion": "Campaña al Desierto 2575",
+        "telefono": "011-1565178717",
+        "email": "Pabellones con bolsas de dormir",
+        "plazas": 70,
+        "servicios": "",
+        "propietario": "",
+        "habilitacion": "Ariel Leon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0136464,
+          -35.5776723
+        ]
+      },
+      "properties": {
+        "nombre": "A.C.A",
+        "ubicacion": "Recreo y Campamento",
+        "telefono": "423934/ 426100 / 02241-678832 Torrado",
+        "email": "A6-362 Ismael Torrado",
+        "plazas": 350,
+        "servicios": "Motorhomme",
+        "propietario": "",
+        "habilitacion": "A6-362 Ism"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0703408,
+          -35.5842865
+        ]
+      },
+      "properties": {
+        "nombre": "Asociación Argentina de Pesca. Nueva",
+        "ubicacion": "Av. Pedro Urruty, Lomas Altas",
+        "telefono": "2241- 699987/ 11-69872987",
+        "email": "",
+        "plazas": 14,
+        "servicios": "Parcelas",
+        "propietario": "Habilitó",
+        "habilitacion": "Asociación"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0136464,
+          -35.5776723
+        ]
+      },
+      "properties": {
+        "nombre": "LAGUNA CAMP",
+        "ubicacion": "Camino de circunvalación Km 8",
+        "telefono": "2241-515777 (Mariano)/2241-511115",
+        "email": "Mariano Mendivil- Alfredo Bigatti",
+        "plazas": 1000,
+        "servicios": "",
+        "propietario": "8:00 a 14:00 de martes a sábado.",
+        "habilitacion": "Mariano Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0136464,
+          -35.5776723
+        ]
+      },
+      "properties": {
+        "nombre": "CAMINO DEL SOL",
+        "ubicacion": "Camino de circunvalación km 7.5",
+        "telefono": "2241-568135",
+        "email": "Langono Gustavo",
+        "plazas": 500,
+        "servicios": "",
+        "propietario": "",
+        "habilitacion": "Langono Gu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.031166,
+          -35.5647494
+        ]
+      },
+      "properties": {
+        "nombre": "CAMPING LA PUERTA",
+        "ubicacion": "Av. Costanera Urruty y Plou",
+        "telefono": "02241 42 55 22",
+        "email": "Lamponi Andrea",
+        "plazas": 400,
+        "servicios": "",
+        "propietario": "",
+        "habilitacion": "Lamponi An"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0136464,
+          -35.5776723
+        ]
+      },
+      "properties": {
+        "nombre": "CIRCULO DE SUBOFICIALES DE PFA",
+        "ubicacion": "sólo para socios",
+        "telefono": "02241 42 5116",
+        "email": "",
+        "plazas": 100,
+        "servicios": "",
+        "propietario": "",
+        "habilitacion": "Suboficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0136464,
+          -35.5776723
+        ]
+      },
+      "properties": {
+        "nombre": "LA CASONA",
+        "ubicacion": "Camino de circunvalación km 24",
+        "telefono": "011 1541139353/1531491723",
+        "email": "Cambio de dueños",
+        "plazas": 400,
+        "servicios": "",
+        "propietario": "",
+        "habilitacion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0136464,
+          -35.5776723
+        ]
+      },
+      "properties": {
+        "nombre": "Club Laguna Vitel",
+        "ubicacion": "Camping, pesquero",
+        "telefono": "011- 23323289",
+        "email": "Mario Campanella",
+        "plazas": 200,
+        "servicios": "",
+        "propietario": "",
+        "habilitacion": "Mario Camp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9882274,
+          -35.6068405
+        ]
+      },
+      "properties": {
+        "nombre": "GYC Laguna Resort",
+        "ubicacion": "Camino Circunvalación km7.7",
+        "telefono": "2241- 441560",
+        "email": "Camping- proveduria",
+        "plazas": 192,
+        "servicios": "48 parcelas",
+        "propietario": "",
+        "habilitacion": "Rodolfo G."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0136464,
+          -35.5776723
+        ]
+      },
+      "properties": {
+        "nombre": "SECASFPI Nestor K",
+        "ubicacion": "Camino de Circunvalación km 16.8",
+        "telefono": "11- 52630705",
+        "email": "Carlos Alberto Ortega",
+        "plazas": 500,
+        "servicios": "",
+        "propietario": "vigente",
+        "habilitacion": "Carlos Alb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9784778,
+          -35.5792002
+        ]
+      },
+      "properties": {
+        "nombre": "Club de pesca El Burro",
+        "ubicacion": "Autovía 2 km 135",
+        "telefono": "54 9 11 6937-9315 (Karina Gervasoni) //11- 24518904",
+        "email": "",
+        "plazas": 200,
+        "servicios": "Motorhomme",
+        "propietario": "",
+        "habilitacion": "Karina Ger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9784778,
+          -35.5792002
+        ]
+      },
+      "properties": {
+        "nombre": "EL TALAR DEL BURRO PESQUERO",
+        "ubicacion": "Autovía 2 km 135",
+        "telefono": "11 49976805",
+        "email": "Time of clear water S.A",
+        "plazas": 600,
+        "servicios": "Motorhomme( sin parcela fija)",
+        "propietario": "10/09/2022",
+        "habilitacion": "Time of cl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9953029,
+          -35.5861109
+        ]
+      },
+      "properties": {
+        "nombre": "PUERTO AVENTURA (RECREACIÓN)",
+        "ubicacion": "Av. Costanera Pedro Gastón y Ayacucho",
+        "telefono": "2241 672016/ 2241 54-2834",
+        "email": "Mariela Alfonsin, Maria Cavia",
+        "plazas": 1100,
+        "servicios": "",
+        "propietario": "15/11/2023",
+        "habilitacion": "RECREACION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0136464,
+          -35.5776723
+        ]
+      },
+      "properties": {
+        "nombre": "KAPAWA S.A",
+        "ubicacion": "Campaña al Desierto 2575",
+        "telefono": "011-1565178717",
+        "email": "Ariel Leon/ Hernan Espanol",
+        "plazas": 150,
+        "servicios": "",
+        "propietario": "15/02/2023",
+        "habilitacion": "Ariel Leon"
+      }
+    }
+  ]
+}

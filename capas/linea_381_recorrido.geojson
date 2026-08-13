@@ -1,0 +1,2263 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -58.02783,
+                        -35.534088,
+                        0
+                    ],
+                    [
+                        -58.023618,
+                        -35.534776,
+                        0
+                    ],
+                    [
+                        -58.021489,
+                        -35.535112,
+                        0
+                    ],
+                    [
+                        -58.020385,
+                        -35.535299,
+                        0
+                    ],
+                    [
+                        -58.019878,
+                        -35.535384,
+                        0
+                    ],
+                    [
+                        -58.019473,
+                        -35.535517,
+                        0
+                    ],
+                    [
+                        -58.019269,
+                        -35.535665,
+                        0
+                    ],
+                    [
+                        -58.019123,
+                        -35.535845,
+                        0
+                    ],
+                    [
+                        -58.018996,
+                        -35.536079,
+                        0
+                    ],
+                    [
+                        -58.018948,
+                        -35.536381,
+                        0
+                    ],
+                    [
+                        -58.018739,
+                        -35.538917,
+                        0
+                    ],
+                    [
+                        -58.018618,
+                        -35.540746,
+                        0
+                    ],
+                    [
+                        -58.018567,
+                        -35.541656,
+                        0
+                    ],
+                    [
+                        -58.01852,
+                        -35.542543,
+                        0
+                    ],
+                    [
+                        -58.018222,
+                        -35.54617,
+                        0
+                    ],
+                    [
+                        -58.017964,
+                        -35.549792,
+                        0
+                    ],
+                    [
+                        -58.017844,
+                        -35.551921,
+                        0
+                    ],
+                    [
+                        -58.01774,
+                        -35.55326,
+                        0
+                    ],
+                    [
+                        -58.017689,
+                        -35.554012,
+                        0
+                    ],
+                    [
+                        -58.017505,
+                        -35.556506,
+                        0
+                    ],
+                    [
+                        -58.017359,
+                        -35.559078,
+                        0
+                    ],
+                    [
+                        -58.017044,
+                        -35.561649,
+                        0
+                    ],
+                    [
+                        -58.016865,
+                        -35.562914,
+                        0
+                    ],
+                    [
+                        -58.016854,
+                        -35.563336,
+                        0
+                    ],
+                    [
+                        -58.016835,
+                        -35.56369,
+                        0
+                    ],
+                    [
+                        -58.016762,
+                        -35.56428,
+                        0
+                    ],
+                    [
+                        -58.01589,
+                        -35.56419,
+                        0
+                    ],
+                    [
+                        -58.014972,
+                        -35.564115,
+                        0
+                    ],
+                    [
+                        -58.014647,
+                        -35.564084,
+                        0
+                    ],
+                    [
+                        -58.01447,
+                        -35.563966,
+                        0
+                    ],
+                    [
+                        -58.014096,
+                        -35.563929,
+                        0
+                    ],
+                    [
+                        -58.013721,
+                        -35.563884,
+                        0
+                    ],
+                    [
+                        -58.012981,
+                        -35.563784,
+                        0
+                    ],
+                    [
+                        -58.012054,
+                        -35.563674,
+                        0
+                    ],
+                    [
+                        -58.011093,
+                        -35.563554,
+                        0
+                    ],
+                    [
+                        -58.010756,
+                        -35.565468,
+                        0
+                    ],
+                    [
+                        -58.010605,
+                        -35.566413,
+                        0
+                    ],
+                    [
+                        -58.010454,
+                        -35.567434,
+                        0
+                    ],
+                    [
+                        -58.010632,
+                        -35.567455,
+                        0
+                    ],
+                    [
+                        -58.010606,
+                        -35.567566,
+                        0
+                    ],
+                    [
+                        -58.010461,
+                        -35.568525,
+                        0
+                    ],
+                    [
+                        -58.008819,
+                        -35.577329,
+                        0
+                    ],
+                    [
+                        -58.008769,
+                        -35.577379,
+                        0
+                    ],
+                    [
+                        -58.008657,
+                        -35.57741,
+                        0
+                    ],
+                    [
+                        -58.008561,
+                        -35.577436,
+                        0
+                    ],
+                    [
+                        -58.00842,
+                        -35.577428,
+                        0
+                    ],
+                    [
+                        -58.008313,
+                        -35.577382,
+                        0
+                    ],
+                    [
+                        -58.008239,
+                        -35.577308,
+                        0
+                    ],
+                    [
+                        -58.008191,
+                        -35.57721,
+                        0
+                    ],
+                    [
+                        -58.008199,
+                        -35.577104,
+                        0
+                    ],
+                    [
+                        -58.008142,
+                        -35.577079,
+                        0
+                    ],
+                    [
+                        -58.00773,
+                        -35.577022,
+                        0
+                    ],
+                    [
+                        -57.984357,
+                        -35.574012,
+                        0
+                    ],
+                    [
+                        -57.983731,
+                        -35.57673,
+                        0
+                    ],
+                    [
+                        -57.983461,
+                        -35.577885,
+                        0
+                    ],
+                    [
+                        -57.983497,
+                        -35.577947,
+                        0
+                    ],
+                    [
+                        -57.983364,
+                        -35.578697,
+                        0
+                    ],
+                    [
+                        -57.983296,
+                        -35.579116,
+                        0
+                    ],
+                    [
+                        -57.983237,
+                        -35.579326,
+                        0
+                    ],
+                    [
+                        -57.983191,
+                        -35.579365,
+                        0
+                    ],
+                    [
+                        -57.983167,
+                        -35.579452,
+                        0
+                    ],
+                    [
+                        -57.98311,
+                        -35.579716,
+                        0
+                    ],
+                    [
+                        -57.983085,
+                        -35.579749,
+                        0
+                    ],
+                    [
+                        -57.983037,
+                        -35.579762,
+                        0
+                    ],
+                    [
+                        -57.982994,
+                        -35.579767,
+                        0
+                    ],
+                    [
+                        -57.982954,
+                        -35.579764,
+                        0
+                    ],
+                    [
+                        -57.982911,
+                        -35.579747,
+                        0
+                    ],
+                    [
+                        -57.982885,
+                        -35.579709,
+                        0
+                    ],
+                    [
+                        -57.982884,
+                        -35.579646,
+                        0
+                    ],
+                    [
+                        -57.98294,
+                        -35.579426,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "<br><br>nombre: Línea 381 - Vuelta (Ranchos → Chascomús)<br>sentido: Ranchos → Chascomús<br>empresa: Expreso Ruta 29 S.R.L.<br>horario_habil: Lunes 07:40-21:30 - Martes 07:40-21:30 - Miércoles 07:40-21:30 - Jueves 07:40-21:30 - Viernes 07:40-21:30<br>horario_finde: Sábado 08:40-20:30 - Domingo 08:40-20:3<br>duracion_viaje: 69 min<br>cantidad_paradas: 26<br>paradas: Av. Juan Manuel De Rosas Y Rp 20 · Av. Juan Manuel De Rosas Y Carlos Fuentealba · Av. Juan Manuel De Rosas Y 30 De Mayo · Libres Del Sur, 1442 · 25 De Mayo, 161 · El Ombú, 199 · Tucumán, 188 · Juan Manuel De Rosas, 723 · Avenida Fernando De Arenaza, 105 · Avenida Hipólito Yrigoyen, 715 · Avenida Hipólito Yrigoyen, 603 · Avenida Hipólito Yrigoyen, 504 · Avenida Hipólito Yrigoyen, 410 · Avenida Hipólito Yrigoyen, 310 · Remedios De Escalada, 6 · Avenida Hipólito Yrigoyen, 40 ·  Mendiola, 10 · Malvinas Argentinas, 12 · América, 10 · Avenida Lastra, 1162 · Bahía Blanca, 14 · Avenida Lastra, 1288 · Avenida Lastra, 1480 · Balcarce, 82 · Balcarce 258<br>fuente: <br>stroke-width: 3<br>stroke-opacity: 1<br>stroke: rgba(225, 87, 13, 1)"
+                },
+                "styleUrl": "#line-E65100-5612",
+                "stroke-opacity": "1",
+                "stroke": "rgba(225, 87, 13, 1)",
+                "stroke-width": "3",
+                "nombre": "Línea 381 - Vuelta (Ranchos → Chascomús)",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "Expreso Ruta 29 S.R.L.",
+                "horario_habil": "Lunes 07:40-21:30 - Martes 07:40-21:30 - Miércoles 07:40-21:30 - Jueves 07:40-21:30 - Viernes 07:40-21:30",
+                "horario_finde": "Sábado 08:40-20:30 - Domingo 08:40-20:3",
+                "duracion_viaje": "69 min",
+                "cantidad_paradas": "26",
+                "paradas": "Av. Juan Manuel De Rosas Y Rp 20 · Av. Juan Manuel De Rosas Y Carlos Fuentealba · Av. Juan Manuel De Rosas Y 30 De Mayo · Libres Del Sur, 1442 · 25 De Mayo, 161 · El Ombú, 199 · Tucumán, 188 · Juan Manuel De Rosas, 723 · Avenida Fernando De Arenaza, 105 · Avenida Hipólito Yrigoyen, 715 · Avenida Hipólito Yrigoyen, 603 · Avenida Hipólito Yrigoyen, 504 · Avenida Hipólito Yrigoyen, 410 · Avenida Hipólito Yrigoyen, 310 · Remedios De Escalada, 6 · Avenida Hipólito Yrigoyen, 40 ·  Mendiola, 10 · Malvinas Argentinas, 12 · América, 10 · Avenida Lastra, 1162 · Bahía Blanca, 14 · Avenida Lastra, 1288 · Avenida Lastra, 1480 · Balcarce, 82 · Balcarce 258",
+                "fuente": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -58.027829,
+                        -35.534088,
+                        0
+                    ],
+                    [
+                        -58.018638,
+                        -35.535367,
+                        0
+                    ],
+                    [
+                        -58.018812,
+                        -35.536566,
+                        0
+                    ],
+                    [
+                        -58.018624,
+                        -35.539504,
+                        0
+                    ],
+                    [
+                        -58.018534,
+                        -35.540987,
+                        0
+                    ],
+                    [
+                        -58.018474,
+                        -35.54174,
+                        0
+                    ],
+                    [
+                        -58.01843,
+                        -35.542452,
+                        0
+                    ],
+                    [
+                        -58.018367,
+                        -35.543391,
+                        0
+                    ],
+                    [
+                        -58.018302,
+                        -35.544333,
+                        0
+                    ],
+                    [
+                        -58.018144,
+                        -35.5462,
+                        0
+                    ],
+                    [
+                        -58.018026,
+                        -35.548022,
+                        0
+                    ],
+                    [
+                        -58.017882,
+                        -35.549867,
+                        0
+                    ],
+                    [
+                        -58.017769,
+                        -35.551628,
+                        0
+                    ],
+                    [
+                        -58.017709,
+                        -35.552521,
+                        0
+                    ],
+                    [
+                        -58.017679,
+                        -35.552971,
+                        0
+                    ],
+                    [
+                        -58.017667,
+                        -35.55338,
+                        0
+                    ],
+                    [
+                        -58.017218,
+                        -35.553382,
+                        0
+                    ],
+                    [
+                        -58.017089,
+                        -35.555301,
+                        0
+                    ],
+                    [
+                        -58.016971,
+                        -35.557197,
+                        0
+                    ],
+                    [
+                        -58.016857,
+                        -35.558878,
+                        0
+                    ],
+                    [
+                        -58.016673,
+                        -35.56061,
+                        0
+                    ],
+                    [
+                        -58.016027,
+                        -35.564113,
+                        0
+                    ],
+                    [
+                        -58.014977,
+                        -35.563999,
+                        0
+                    ],
+                    [
+                        -58.014753,
+                        -35.563949,
+                        0
+                    ],
+                    [
+                        -58.014472,
+                        -35.563842,
+                        0
+                    ],
+                    [
+                        -58.014358,
+                        -35.563804,
+                        0
+                    ],
+                    [
+                        -58.013584,
+                        -35.563727,
+                        0
+                    ],
+                    [
+                        -58.0124,
+                        -35.563577,
+                        0
+                    ],
+                    [
+                        -58.011084,
+                        -35.56342,
+                        0
+                    ],
+                    [
+                        -58.009821,
+                        -35.563295,
+                        0
+                    ],
+                    [
+                        -58.009096,
+                        -35.567313,
+                        0
+                    ],
+                    [
+                        -58.009081,
+                        -35.567506,
+                        0
+                    ],
+                    [
+                        -58.010086,
+                        -35.567633,
+                        0
+                    ],
+                    [
+                        -58.008199,
+                        -35.576903,
+                        0
+                    ],
+                    [
+                        -58.002274,
+                        -35.576144,
+                        0
+                    ],
+                    [
+                        -57.99932,
+                        -35.575823,
+                        0
+                    ],
+                    [
+                        -57.999195,
+                        -35.575856,
+                        0
+                    ],
+                    [
+                        -57.999071,
+                        -35.575872,
+                        0
+                    ],
+                    [
+                        -57.998862,
+                        -35.575841,
+                        0
+                    ],
+                    [
+                        -57.99628,
+                        -35.575462,
+                        0
+                    ],
+                    [
+                        -57.990311,
+                        -35.57471,
+                        0
+                    ],
+                    [
+                        -57.984324,
+                        -35.573956,
+                        0
+                    ],
+                    [
+                        -57.983691,
+                        -35.576664,
+                        0
+                    ],
+                    [
+                        -57.983184,
+                        -35.57891,
+                        0
+                    ],
+                    [
+                        -57.983083,
+                        -35.578969,
+                        0
+                    ],
+                    [
+                        -57.982998,
+                        -35.579182,
+                        0
+                    ],
+                    [
+                        -57.982942,
+                        -35.579405,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "description": {
+                    "@type": "html",
+                    "value": "<br><br>nombre: Línea 381 - Ida ( Chascomús → Ranchos)<br>sentido: Chascomús → Ranchos<br>empresa: Expreso Ruta 29 S.R.L.<br>horario_habil: Lunes 07:40-21:30 - Martes 07:40-21:30 - Miércoles 07:40-21:30 - Jueves 07:40-21:30 - Viernes 07:40-21:30<br>horario_finde: Sábado 08:40-20:30 - Domingo 08:40-20:3<br>duracion_viaje: 69 min<br>cantidad_paradas: 26<br>paradas: Balcarce 258 · Balcarce, 82 · Avenida Lastra, 1480 · Avenida Lastra, 1378 · La Plata, 80 · Avenida Presidente Alfonsín, 1162 · Avenida Presidente Alfonsín, 1110 · Italia, 21 · Grito De Dolores, 24 · Obligado, 1 · Avenida Teniente General Juan Domingo Perón, 2 · Solís, 23 · Avenida Hipólito Yrigoyen, 302 · Mexico, 8 · Avenida Hipólito Yrigoyen, 400 · Machado, 610 · Avenida Hipólito Yrigoyen, 688 · Avenida Fernando De Arenaza, 84 · Avenida Fernando De Arenaza, 172 · Libres Del Sur, 830 · El Ombú, 199 · Juan Manuel De Rosas, 1127 · Libres Del Sur,  Y 30 De Mayo ·  Av. Juan Manuel De Rosas Y Rp 20<br>fuente: <br>stroke-width: 3<br>stroke-opacity: 1<br>stroke: rgba(64, 236, 16, 1)"
+                },
+                "styleUrl": "#line-0F9D58-6767",
+                "stroke": "rgba(64, 236, 16, 1)",
+                "nombre": "Línea 381 - Ida ( Chascomús → Ranchos)",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "Expreso Ruta 29 S.R.L.",
+                "horario_habil": "Lunes 07:40-21:30 - Martes 07:40-21:30 - Miércoles 07:40-21:30 - Jueves 07:40-21:30 - Viernes 07:40-21:30",
+                "horario_finde": "Sábado 08:40-20:30 - Domingo 08:40-20:3",
+                "duracion_viaje": "69 min",
+                "cantidad_paradas": "26",
+                "paradas": "Balcarce 258 · Balcarce, 82 · Avenida Lastra, 1480 · Avenida Lastra, 1378 · La Plata, 80 · Avenida Presidente Alfonsín, 1162 · Avenida Presidente Alfonsín, 1110 · Italia, 21 · Grito De Dolores, 24 · Obligado, 1 · Avenida Teniente General Juan Domingo Perón, 2 · Solís, 23 · Avenida Hipólito Yrigoyen, 302 · Mexico, 8 · Avenida Hipólito Yrigoyen, 400 · Machado, 610 · Avenida Hipólito Yrigoyen, 688 · Avenida Fernando De Arenaza, 84 · Avenida Fernando De Arenaza, 172 · Libres Del Sur, 830 · El Ombú, 199 · Juan Manuel De Rosas, 1127 · Libres Del Sur,  Y 30 De Mayo ·  Av. Juan Manuel De Rosas Y Rp 20",
+                "fuente": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.018917,
+                    -35.536714,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Juan Manuel De Rosas Y Rp 20",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:10 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.01815,
+                    -35.547322,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Juan Manuel De Rosas Y 30 De Mayo",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:12 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.017872,
+                    -35.551447,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Libres Del Sur, 1442",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:14 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.017679,
+                    -35.555695,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "25 de Mayo 161",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:16 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.017403,
+                    -35.558624,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Juan Manuel de Rosas y El Ombú",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:18 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.01715,
+                    -35.561263,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tucumán, 188",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:20 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.016757,
+                    -35.564203,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Belgrano 723",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:22 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.014124,
+                    -35.56397,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Fernando de Arenaza 105",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:24 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.011516,
+                    -35.563417,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Hipólito Yrigoyen 715",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "08:10 aprox.",
+                "horario_mediodia": "12:35 aprox.",
+                "horario_tarde": "14:00 aprox.",
+                "horario_vespertino": "18:00 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.010837,
+                    -35.565389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Hipólito Yrigoyen 603",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:28 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.010574,
+                    -35.567281,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Hipólito Yrigoyen 504",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:30 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.010338,
+                    -35.56943,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Hipólito Yrigoyen 410",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:32 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.010024,
+                    -35.571115,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Hipólito Yrigoyen 310",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:34 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.009495,
+                    -35.573983,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Remedios de Escalada 6",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:36 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.009183,
+                    -35.57588,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Hipólito Yrigoyen 40",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:38 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.004814,
+                    -35.576458,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Obligado 1",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "07:56 aprox.",
+                "horario_mediodia": "12:21 aprox.",
+                "horario_tarde": "13:46 aprox.",
+                "horario_vespertino": "17:46 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.001222,
+                    -35.576305,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mendiola 10",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:40 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.998956,
+                    -35.575745,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Malvinas Argentinas 12",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "07:52 aprox.",
+                "horario_mediodia": "12:17 aprox.",
+                "horario_tarde": "13:42 aprox.",
+                "horario_vespertino": "17:42 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.995174,
+                    -35.575429,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "América 10",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:42 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.991311,
+                    -35.574927,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Lastra 1162",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:44 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.98905,
+                    -35.574647,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bahía Blanca 14",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:46 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.986765,
+                    -35.574388,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Lastra 1288",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:48 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.984515,
+                    -35.57409,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Lastra 1480",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:50 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.983994,
+                    -35.575899,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Balcarce 82",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:52 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.982964,
+                    -35.579443
+                ]
+            },
+            "properties": {
+                "name": "Balcarce 258",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:54 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.986169,
+                    -35.574173,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Lastra 1378",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "07:42 aprox.",
+                "horario_mediodia": "12:07 aprox.",
+                "horario_tarde": "13:32 aprox.",
+                "horario_vespertino": "17:32 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.987864,
+                    -35.574357,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Plata 80",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "07:44 aprox.",
+                "horario_mediodia": "12:09 aprox.",
+                "horario_tarde": "13:34 aprox.",
+                "horario_vespertino": "17:34 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.990765,
+                    -35.57468,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Pres. Alfonsín 1162",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "07:46 aprox.",
+                "horario_mediodia": "12:11 aprox.",
+                "horario_tarde": "13:36 aprox.",
+                "horario_vespertino": "17:36 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.993119,
+                    -35.57499,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Pres. Alfonsín 1110",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "07:48 aprox.",
+                "horario_mediodia": "12:13 aprox.",
+                "horario_tarde": "13:38 aprox.",
+                "horario_vespertino": "17:38 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.996526,
+                    -35.575392,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Italia 23",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "07:50 aprox.",
+                "horario_mediodia": "12:15 aprox.",
+                "horario_tarde": "13:40 aprox.",
+                "horario_vespertino": "17:40 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.001149,
+                    -35.576003,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grito de Dolores 24",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "07:54 aprox.",
+                "horario_mediodia": "12:19 aprox.",
+                "horario_tarde": "13:44 aprox.",
+                "horario_vespertino": "17:44 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.007948,
+                    -35.576779,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Tte. Gral. Juan Domingo Perón 2",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "07:58 aprox.",
+                "horario_mediodia": "12:23 aprox.",
+                "horario_tarde": "13:48 aprox.",
+                "horario_vespertino": "17:48 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.008739,
+                    -35.574017,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Solís, 23",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "08:00 aprox.",
+                "horario_mediodia": "12:25 aprox.",
+                "horario_tarde": "13:50 aprox.",
+                "horario_vespertino": "17:50 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.009311,
+                    -35.571187,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Hipólito Yrigoyen 302",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "08:02 aprox.",
+                "horario_mediodia": "12:27 aprox.",
+                "horario_tarde": "13:52 aprox.",
+                "horario_vespertino": "17:52 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.009668,
+                    -35.569524,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mexico 8",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "08:04 aprox.",
+                "horario_mediodia": "12:29 aprox.",
+                "horario_tarde": "13:54 aprox.",
+                "horario_vespertino": "17:54 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.010039,
+                    -35.567714,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Hipólito Yrigoyen 400",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "08:06 aprox.",
+                "horario_mediodia": "12:31 aprox.",
+                "horario_tarde": "13:56 aprox.",
+                "horario_vespertino": "17:56 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.009354,
+                    -35.565185,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Machado 610",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "08:08 aprox.",
+                "horario_mediodia": "12:33 aprox.",
+                "horario_tarde": "13:58 aprox.",
+                "horario_vespertino": "17:58 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.011047,
+                    -35.563682,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Hipólito Yrigoyen 688",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f9a825",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Ranchos → Chascomús",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario": "20:26 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.0138,
+                    -35.563712,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Fernando de Arenaza 84",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "08:12 aprox.",
+                "horario_mediodia": "12:37 aprox.",
+                "horario_tarde": "14:02 aprox.",
+                "horario_vespertino": "18:02 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.015909,
+                    -35.564082,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Av. Fernando de Arenaza 172",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "08:14 aprox.",
+                "horario_mediodia": "12:39 aprox.",
+                "horario_tarde": "14:04 aprox.",
+                "horario_vespertino": "18:04 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.016448,
+                    -35.56155,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Libres del Sur 830",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "08:16 aprox.",
+                "horario_mediodia": "12:41 aprox.",
+                "horario_tarde": "14:06 aprox.",
+                "horario_vespertino": "18:06 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.016823,
+                    -35.558739,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "El Ombú",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "08:18 aprox.",
+                "horario_mediodia": "12:43 aprox.",
+                "horario_tarde": "14:08 aprox.",
+                "horario_vespertino": "18:08 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.017187,
+                    -35.553431,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hudson",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "08:20 aprox.",
+                "horario_mediodia": "12:45 aprox.",
+                "horario_tarde": "14:10 aprox.",
+                "horario_vespertino": "18:10 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.018036,
+                    -35.547389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "30 de mayo",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "08:22 aprox.",
+                "horario_mediodia": "12:47 aprox.",
+                "horario_tarde": "14:12 aprox.",
+                "horario_vespertino": "18:12 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.019585,
+                    -35.535243,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ruta 20",
+                "description": "Parada linea 381",
+                "styleUrl": "#icon-1562-AFB42B",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "empresa": "",
+                "horario_habil": "",
+                "horario_finde": "",
+                "duracion_viaje": "",
+                "cantidad_paradas": "",
+                "paradas": "",
+                "fuente": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "stroke": "",
+                "horario_matutino": "08:24 aprox.",
+                "horario_mediodia": "12:49 aprox.",
+                "horario_tarde": "14:14 aprox.",
+                "horario_vespertino": "18:14 aprox."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.982941,
+                    -35.57937
+                ]
+            },
+            "properties": {
+                "description": "Parada linea 381",
+                "name": "Balcarce 258",
+                "styleUrl": "#icon-1562-F9A825",
+                "label-scale": "o",
+                "icon-opacity": 1,
+                "stroke-opacity": "#afb42b",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "nombre": "",
+                "sentido": "Chascomús → Ranchos",
+                "horario_matutino": "07:40 aprox.",
+                "horario_mediodia": "",
+                "horario_tarde": "",
+                "horario_vespertino": ""
+            }
+        }
+    ]
+}

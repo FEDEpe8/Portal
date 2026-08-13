@@ -1,0 +1,455 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -58.007444,
+                        -35.583826,
+                        0
+                    ],
+                    [
+                        -58.010447,
+                        -35.567573,
+                        0
+                    ],
+                    [
+                        -58.024382,
+                        -35.568997,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Bicisenda Escribano-Irigoyen-Peron",
+                "styleUrl": "#inline22",
+                "fill-opacity": 0,
+                "stroke-opacity": 1,
+                "stroke": "#00ff00",
+                "stroke-width": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -58.024548,
+                        -35.569175,
+                        0
+                    ],
+                    [
+                        -58.023933,
+                        -35.571362,
+                        0
+                    ],
+                    [
+                        -58.023232,
+                        -35.572946,
+                        0
+                    ],
+                    [
+                        -58.021806,
+                        -35.575111,
+                        0
+                    ],
+                    [
+                        -58.02145,
+                        -35.575506,
+                        0
+                    ],
+                    [
+                        -58.021238,
+                        -35.575569,
+                        0
+                    ],
+                    [
+                        -58.020312,
+                        -35.575586,
+                        0
+                    ],
+                    [
+                        -58.020171,
+                        -35.575611,
+                        0
+                    ],
+                    [
+                        -58.020043,
+                        -35.575762,
+                        0
+                    ],
+                    [
+                        -58.019871,
+                        -35.578085,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Senda Peatonal Costanera: Escribano - Pesca",
+                "styleUrl": "#inline",
+                "fill-opacity": 0,
+                "stroke-opacity": 1,
+                "stroke": "#0000ff",
+                "stroke-width": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -58.019913,
+                        -35.578088,
+                        0
+                    ],
+                    [
+                        -58.020154,
+                        -35.578162,
+                        0
+                    ],
+                    [
+                        -58.020333,
+                        -35.578264,
+                        0
+                    ],
+                    [
+                        -58.020396,
+                        -35.578414,
+                        0
+                    ],
+                    [
+                        -58.020303,
+                        -35.57855,
+                        0
+                    ],
+                    [
+                        -58.019771,
+                        -35.579153,
+                        0
+                    ],
+                    [
+                        -58.019561,
+                        -35.579424,
+                        0
+                    ],
+                    [
+                        -58.019133,
+                        -35.580646,
+                        0
+                    ],
+                    [
+                        -58.018815,
+                        -35.581253,
+                        0
+                    ],
+                    [
+                        -58.018482,
+                        -35.581813,
+                        0
+                    ],
+                    [
+                        -58.0171,
+                        -35.58242,
+                        0
+                    ],
+                    [
+                        -58.016232,
+                        -35.582347,
+                        0
+                    ],
+                    [
+                        -58.015457,
+                        -35.582388,
+                        0
+                    ],
+                    [
+                        -58.015344,
+                        -35.582412,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Senda Peatonal Costanera: Pesca - Bajadita",
+                "styleUrl": "#inline18",
+                "fill-opacity": 0,
+                "stroke-opacity": 1,
+                "stroke": "#0000ff",
+                "stroke-width": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -58.014919,
+                        -35.582436,
+                        0
+                    ],
+                    [
+                        -58.014503,
+                        -35.582524,
+                        0
+                    ],
+                    [
+                        -58.01063,
+                        -35.584102,
+                        0
+                    ],
+                    [
+                        -58.010429,
+                        -35.584173,
+                        0
+                    ],
+                    [
+                        -58.010122,
+                        -35.584239,
+                        0
+                    ],
+                    [
+                        -58.009875,
+                        -35.584251,
+                        0
+                    ],
+                    [
+                        -58.009518,
+                        -35.584209,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Senda Peatonal Av Costanera España",
+                "styleUrl": "#inline14",
+                "fill-opacity": 0,
+                "stroke-opacity": 1,
+                "stroke": "#0000ff",
+                "stroke-width": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -58.009506,
+                        -35.584205,
+                        0
+                    ],
+                    [
+                        -58.004804,
+                        -35.583326,
+                        0
+                    ],
+                    [
+                        -58.004664,
+                        -35.583381,
+                        0
+                    ],
+                    [
+                        -58.004519,
+                        -35.583353,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Senda Peatonal Regatas - Monolito",
+                "styleUrl": "#inline5",
+                "fill-opacity": 0,
+                "stroke-opacity": 1,
+                "stroke": "#0000ff",
+                "stroke-width": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -58.004527,
+                        -35.583353,
+                        0
+                    ],
+                    [
+                        -58.004481,
+                        -35.583277,
+                        0
+                    ],
+                    [
+                        -57.998103,
+                        -35.582911,
+                        0
+                    ],
+                    [
+                        -57.997998,
+                        -35.582943,
+                        0
+                    ],
+                    [
+                        -57.997866,
+                        -35.583013,
+                        0
+                    ],
+                    [
+                        -57.996952,
+                        -35.583973,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Senda Peatonal Monolito a Fuerte San Juan Bautista",
+                "styleUrl": "#inline27",
+                "fill-opacity": 0,
+                "stroke-opacity": 1,
+                "stroke": "#0000ff",
+                "stroke-width": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -57.998948,
+                        -35.575749,
+                        0
+                    ],
+                    [
+                        -58.008015,
+                        -35.576781,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Bicisenda Alfonsín: Vias - Hospital",
+                "styleUrl": "#inline19",
+                "fill-opacity": 0,
+                "stroke-opacity": 1,
+                "stroke": "#00ff00",
+                "stroke-width": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -58.005874,
+                        -35.576547,
+                        0
+                    ],
+                    [
+                        -58.005801,
+                        -35.576781,
+                        0
+                    ],
+                    [
+                        -58.008088,
+                        -35.577074,
+                        0
+                    ],
+                    [
+                        -58.008211,
+                        -35.577423,
+                        0
+                    ],
+                    [
+                        -58.008612,
+                        -35.577511,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Bicisenda Alfonsin: Esc. Normal - Rotonda",
+                "styleUrl": "#inline3",
+                "fill-opacity": 0,
+                "stroke-opacity": 1,
+                "stroke": "#00ff00",
+                "stroke-width": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -58.018644,
+                        -35.537248,
+                        0
+                    ],
+                    [
+                        -58.017612,
+                        -35.553307,
+                        0
+                    ],
+                    [
+                        -58.017326,
+                        -35.553373,
+                        0
+                    ],
+                    [
+                        -58.016707,
+                        -35.561317,
+                        0
+                    ],
+                    [
+                        -58.016284,
+                        -35.563551,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Senda Peatonal Escribano a Ruta Nº20",
+                "styleUrl": "#inline10",
+                "fill-opacity": 0,
+                "stroke-opacity": 1,
+                "stroke": "#0000ff",
+                "stroke-width": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -58.016848,
+                        -35.557055,
+                        0
+                    ],
+                    [
+                        -58.010671,
+                        -35.556784,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Bicisenda Scalabrini Ortiz",
+                "styleUrl": "#inline12",
+                "fill-opacity": 0,
+                "stroke-opacity": 1,
+                "stroke": "#00ff00",
+                "stroke-width": 3
+            }
+        }
+    ]
+}

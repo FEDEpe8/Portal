@@ -1,0 +1,253 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.010602,
+                    -35.5513,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "CIC 30 de Mayo Dr. Quintin",
+                "description": {
+                    "@type": "html",
+                    "value": "Descripción: <br>styleUrl: <br>fill-opacity: "
+                },
+                "styleUrl": "",
+                "icon-opacity": 1,
+                "icon-color": "#ff5252",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "fill-opacity": ""
+            },
+            "bbox": [
+                -58.010602,
+                -35.5513,
+                -58.010602,
+                -35.5513
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.013979,
+                    -35.561157,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Unidad Sanitaria Barrio Jardín",
+                "description": {
+                    "@type": "html",
+                    "value": "Descripción: <br>styleUrl: <br>fill-opacity: "
+                },
+                "styleUrl": "",
+                "icon-opacity": 1,
+                "icon-color": "#ff5252",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "fill-opacity": ""
+            },
+            "bbox": [
+                -58.013979,
+                -35.561157,
+                -58.013979,
+                -35.561157
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.022988,
+                    -35.563619,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "CAPS Barrio SAN LUIS ",
+                "description": {
+                    "@type": "html",
+                    "value": "Descripción: <br>styleUrl: <br>fill-opacity: "
+                },
+                "styleUrl": "",
+                "icon-opacity": 1,
+                "icon-color": "#ff5252",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "fill-opacity": ""
+            },
+            "bbox": [
+                -58.022988,
+                -35.563619,
+                -58.022988,
+                -35.563619
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.970899,
+                    -35.575487,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Unidad Sanitaria Barrio El Porteño",
+                "description": {
+                    "@type": "html",
+                    "value": "Descripción: <br>styleUrl: <br>fill-opacity: "
+                },
+                "styleUrl": "",
+                "icon-opacity": 1,
+                "icon-color": "#ff5252",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "fill-opacity": ""
+            },
+            "bbox": [
+                -57.970899,
+                -35.575487,
+                -57.970899,
+                -35.575487
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.984993,
+                    -35.576178,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "CAPS Gallo Blanco",
+                "description": {
+                    "@type": "html",
+                    "value": "Descripción: <br>styleUrl: <br>fill-opacity: "
+                },
+                "styleUrl": "",
+                "icon-opacity": 1,
+                "icon-color": "#ff5252",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "fill-opacity": ""
+            },
+            "bbox": [
+                -57.984993,
+                -35.576178,
+                -57.984993,
+                -35.576178
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.994295,
+                    -35.568128,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "CAPS Barrio Iporá",
+                "description": {
+                    "@type": "html",
+                    "value": "Descripción: <br>styleUrl: <br>fill-opacity: "
+                },
+                "styleUrl": "",
+                "icon-opacity": 1,
+                "icon-color": "#ff5252",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "fill-opacity": ""
+            },
+            "bbox": [
+                -57.994295,
+                -35.568128,
+                -57.994295,
+                -35.568128
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.013033,
+                    -35.53188,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "CAPS San Cayetano",
+                "description": {
+                    "@type": "html",
+                    "value": "Descripción: <br>styleUrl: <br>fill-opacity: "
+                },
+                "styleUrl": "",
+                "icon-opacity": 1,
+                "icon-color": "#ff5252",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "fill-opacity": ""
+            },
+            "bbox": [
+                -58.013033,
+                -35.53188,
+                -58.013033,
+                -35.53188
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.007845,
+                    -35.576315,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hospital San Visente de Paul",
+                "description": {
+                    "@type": "html",
+                    "value": "Descripción: <br>styleUrl: <br>fill-opacity: "
+                },
+                "styleUrl": "",
+                "icon-opacity": 1,
+                "icon-color": "#ff5252",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "Descripción": "",
+                "fill-opacity": ""
+            },
+            "bbox": [
+                -58.007845,
+                -35.576315,
+                -58.007845,
+                -35.576315
+            ]
+        }
+    ]
+}
