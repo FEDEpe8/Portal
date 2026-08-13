@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visor Geográfico - Municipalidad de Chascomús</title>
+    <meta name="description" content="Visor geográfico interactivo del Partido de Chascomús. Consulta capas de territorio, comercios, turismo, servicios y más.">
+    <meta name="theme-color" content="#1a2a4f">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Visor Geográfico - Municipalidad de Chascomús">
+    <meta property="og:description" content="Sistema de Información Geográfica con capas interactivas del Partido de Chascomús.">
+    <meta property="og:type" content="website">
+
+    <!-- FAVICON -->
+    <link rel="icon" type="image/jpeg" href="escudo.jpeg">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏛️</text></svg>">
+    <link rel="apple-touch-icon" href="iconos/icon-192.png">
+
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="manifest.json">
+
+    <!-- Resource Hints -->
+    <link rel="preconnect" href="https://unpkg.com" crossorigin>
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" crossorigin="anonymous" />
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous">
+
+    <!-- Resource hints para servicios de búsqueda y mediciones -->
+    <link rel="preconnect" href="https://nominatim.openstreetmap.org" crossorigin>
+    <link rel="preconnect" href="https://server.arcgisonline.com" crossorigin>
+    <link rel="preconnect" href="https://basemaps.cartocdn.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" crossorigin="anonymous">
+
+    <!-- Estilos -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Skip Link -->
+<a href="#map" class="skip-link">Saltar al mapa</a>
+
+<!-- HEADER -->
+<header class="header" role="banner">
+    <div class="logo-area">
+        <button class="menu-toggle" id="menuToggle" aria-label="Abrir panel de capas" aria-expanded="false" aria-controls="sidebar">
+            <i class="fas fa-bars"></i>
+        </button>
+        <a href="index.html" class="logo-link" aria-label="Volver al inicio">
+            <img src="escudo.jpeg" alt="Escudo Municipalidad de Chascomús" class="logo-icon">
+            <div class="logo-text">
+                <h1>Chascomús SIG</h1>
+                <p>Sistema de Información Geográfica</p>
+            </div>
+        </a>
+    </div>
+    <div class="header-title">
+        <i class="fas fa-map-marker-alt"></i> Partido de Chascomús
+    </div>
+    <div class="header-actions">
+        <div class="tools-dropdown-wrap">
+            <button class="header-tool-btn" id="toolsToggleBtn" title="Herramientas" aria-label="Mostrar herramientas" aria-expanded="false" aria-controls="toolsMenu">
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="tools-menu" id="toolsMenu" role="menu">
+                <button class="tools-menu-item" id="gpsBtn" role="menuitem" type="button"><i class="fas fa-location-dot"></i><span>Mi ubicación</span></button>
+                <button class="tools-menu-item" id="measureDistanceBtn" role="menuitem" type="button"><i class="fas fa-ruler"></i><span>Medir distancia</span></button>
+                <button class="tools-menu-item" id="measureAreaBtn" role="menuitem" type="button"><i class="fas fa-draw-polygon"></i><span>Medir área</span></button>
+                <button class="tools-menu-item" id="measureClearBtn" role="menuitem" type="button"><i class="fas fa-eraser"></i><span>Borrar mediciones</span></button>
+                <button class="tools-menu-item" id="printBtn" role="menuitem" type="button"><i class="fas fa-print"></i><span>Imprimir mapa</span></button>
+                <button class="tools-menu-item" id="basemapBtn" role="menuitem" type="button"><i class="fas fa-earth-americas"></i><span>Cambiar mapa base</span></button>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- BARRA DE MEDICIÓN (visible solo durante una medición) -->
+<div class="measure-bar" id="measureBar" role="status">
+    <span class="measure-bar-label" id="measureBarLabel"></span>
+    <span class="measure-bar-result" id="measureBarResult"></span>
+    <button class="measure-bar-btn finish" id="measureFinishBtn"><i class="fas fa-check"></i> Finalizar</button>
+    <button class="measure-bar-btn cancel" id="measureCancelBtn"><i class="fas fa-times"></i> Cancelar</button>
+</div>
+
+<!-- PANEL LATERAL DE CAPAS -->
+<nav class="sidebar" id="sidebar" aria-label="Panel de capas">
+    <button class="sidebar-close-btn" id="closePanelBtn" aria-label="Cerrar panel de capas">
+        <i class="fas fa-times"></i>
+    </button>
+
+    <div class="layers-search" role="search">
+        <input type="text" id="searchLayers" placeholder="Buscar capas..." aria-label="Buscar capas">
+        <div class="group-filter-pill" id="groupFilterPill" hidden>
+            <i class="fas fa-filter"></i>
+            <span id="groupFilterLabel"></span>
+            <button type="button" id="groupFilterClear" aria-label="Quitar filtro de categoría" title="Ver todas las capas">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+    </div>
+
+    <div class="layers-list" id="layersList"></div>
+</nav>
+
+<!-- Botón para abrir el panel cuando está cerrado -->
+<button class="open-panel-btn" id="openPanelBtn" title="Abrir capas" aria-label="Abrir panel de capas">
+    <i class="fas fa-layer-group"></i>
+</button>
+
+<!-- CONTROL DE ZOOM -->
+<div class="map-zoom-control" id="toolsContainer">
+    <button class="zoom-btn" id="zoomInBtn" title="Acercar" aria-label="Acercar"><i class="fas fa-plus"></i></button>
+    <button class="zoom-btn" id="zoomOutBtn" title="Alejar" aria-label="Alejar"><i class="fas fa-minus"></i></button>
+</div>
+
+<!-- PANEL DE MAPAS BASE (miniaturas) -->
+<div class="basemap-panel" id="basemapPanel" role="region" aria-label="Selector de mapa base"></div>
+
+<!-- INFO PARA IMPRESIÓN (oculta en pantalla) -->
+<div class="print-info" id="printInfo"></div>
+
+<!-- MAPA -->
+<div id="map" role="application" aria-label="Mapa interactivo de Chascomús"></div>
+
+<!-- FOOTER -->
+<footer class="footer">
+    <i class="far fa-copyright"></i> Municipalidad de Chascomús | Datos abiertos
+</footer>
+
+<!-- TOAST -->
+<div class="toast-notification" id="toast" role="status" aria-live="polite" aria-atomic="true"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@turf/turf@6.5.0/turf.min.js" crossorigin="anonymous"></script>
+<script type="module" src="./json/main.js"></script>
+</body>
+</html>
